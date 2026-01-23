@@ -1,0 +1,26 @@
+# Project Information
+site_name: Los Alamos Computational Condensed Matter Summer School 2026
+site_url: https://laccmss.github.io/2026/
+
+# Mkdocs Theme (Material Mkdocs)
+theme:
+  name: material
+  palette:
+    primary: "blue"
+    accent: "blue"
+  features:
+    - navigation.tabs
+    - navigation.top
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
+nav:
+  - Overview: index.md
+  - About: about.md
+  - Participate: participate.md
+  - Program: program.md
+  - Venue/Travel: location.md
+  - Contact: contact.md
+
