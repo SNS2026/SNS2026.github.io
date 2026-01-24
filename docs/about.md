@@ -2,7 +2,7 @@
 hide:
   - navigation
   - toc
-title: Los Alamos Computational Condensed Matter Summer School 2026
+title: Spectroscopies in Novel Superconductors 2026 – Santa Fe
 #template: home.html
 ---
 
