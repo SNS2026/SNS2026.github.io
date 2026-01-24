@@ -4,26 +4,27 @@ hide:
   - toc
 title: Location
 ---
-<br>TA-03 Building 200, Room 115
-<br>Los Alamos National Laboratory, Los Alamos, NM
+<br>Santa Fe, NM
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d51715.980323490076!2d-106.29004104999999!3d35.89192245!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87186cacdd7d64a7%3A0xe2627730b580ad3d!2sLos%20Alamos%2C%20NM%2087544!5e0!3m2!1sen!2sus!4v1728592499703!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-
-## How to get to Los Alamos?
-By Air
-<br>We recommend that our visitors make their own flight arrangements. Please choose the most economical fare available. You should arrange to fly into the Albuquerque airport being the major air terminal, airport code ABQ. The Albuquerque airport is 75 miles away from Los Alamos. (See Map 1) Santa Fe, the airport code is SAF, is about 30 miles away and has one commercial airline servicing the area. SAF flights tend to be slightly more expensive.
-
-By Land
-<br>A rental car and or shuttle service is required to reach Los Alamos from Albuquerque.
-
-CAR RENTALS: Los Alamos may be reached from Albuquerque International Airport by a scenic two-hour drive. Rental cars are available at the Albuquerque airport through all major companies.
-
-SHUTTLE SERVICES: Groome Transportation (formerly Sandia Shuttle) offers service from Albuquerque to Santa Fe. For a schedule or to make a reservation go to: https://groometransportation.com/santa-fe or call 1-505-474-5696. Road Runner shuttle offers service from Albuquerque to Los Alamos. Call (505) 424-3367 to schedule a pick-up.
-
-RAIL SERVICE: You can take the train from Albuquerque to Santa Fe and then connect to Park and Ride bus service to Los Alamos. Note the Park and Ride only operates weekdays.
-https://www.riometro.org/167/Schedules
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d103719.29118969805!2d-106.08576353404355!3d35.67139127143917!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87185043e79852a9%3A0x8c902373fd88df40!2sSanta%20Fe%2C%20NM!5e0!3m2!1sen!2sus!4v1769220392140!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
-By Sea
-<br>Los Alamos is equidistant from the ports of Houston, TX and Los Angeles, CA. Connect with another mode of transportation.  
+## Getting to Santa Fe
+### Airports
+<br>Santa Fe Regional Airport (SAF): The closest option (10 miles from downtown) with direct, daily flights via American Airlines (from Dallas/DFW, Phoenix) and United Airlines (from Denver).
+<br>Albuquerque International Sunport (ABQ): The primary, larger airport, located about 60 miles (a 1-hour drive) south of Santa Fe.
+### Train
+<br>Amtrak (Southwest Chief) stops in Lamy, NM, about 20 miles from Santa Fe, with pre-arranged shuttle service available. 
+
+### Ground Transportation:
+<br>Car Rentals: Available at the airport.
+<br>Shuttle: Groome Transportation provides service from ABQ to Santa Fe.
+<br>Train: The New Mexico Rail Runner Express connects ABQ to the Santa Fe Railyard.
+<br>Ride-share: Uber and Lyft are available for transport to and from the airport. 
+
+## Getting Around Santa Fe
+<br>Downtown/Walking: The historic Plaza and Railyard district are highly walkable.
+<br>Free Shuttle: The "Santa Fe Pick-up" shuttle services the Plaza, Canyon Road, and Museum Hill.
+<br>Public Transit: North Central RTD and the Santa Fe Trails bus system operate in the city.
+<br>Parking: Metered street parking ($2/hour) is available, along with several parking garages in the downtown and Railyard areas. 
+    
