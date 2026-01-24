@@ -2,14 +2,13 @@
 hide:
   - navigation
   - toc
-title: Schedule
+title: Program
 ---
-<!--
-Coming soon!
--->
 
+Coming soon!
+
+<!--
 <p align="center">
   <img src="../assets/images/Schedule2026.png" />
 </p>
-<!--
 -->
