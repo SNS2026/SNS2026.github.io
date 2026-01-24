@@ -2,15 +2,17 @@
 hide:
   - navigation
   - toc
-title: Los Alamos Computational Condensed Matter Summer School 2026
+title: Spectroscopies in Novel Superconductors 2026 – Santa Fe
 #template: home.html
 ---
 
-# Los Alamos Computational Condensed Matter Summer School 2026<br>- Closing the Loop Between Experiment and Theory
+# Spectroscopies in Novel Superconductors 2026 – Santa Fe
 
+<!--
 <p align="center">
   <img src="assets/images/lanl.jpg" width="50%" height="50%" />
 </p>
+-->
 
 ## Overview
 An increasing number of modern applications of physics, chemistry, materials science, and engineering rely on materials that exhibit manifestations of quantum physics. These quantum materials hold the key not only to new advanced technologies but also to raise fundamental questions about the microscopic physical world. To understand such systems, it has become increasingly necessary to employ a combination of high-resolution spectroscopies and theoretical modeling of the interplay of spin, charge, orbital, and lattice degrees of freedom in parallel to disentangle the rich tapestry of complex properties. 
