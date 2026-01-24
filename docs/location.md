@@ -2,7 +2,7 @@
 hide:
   - navigation
   - toc
-title: Location
+title: Venue/Travel
 ---
 <br>Santa Fe, NM
 
