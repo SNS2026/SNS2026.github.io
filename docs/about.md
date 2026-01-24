@@ -2,7 +2,7 @@
 hide:
   - navigation
   - toc
-title: Spectroscopies in Novel Superconductors 2026 – Santa Fe
+title: About
 #template: home.html
 ---
 
