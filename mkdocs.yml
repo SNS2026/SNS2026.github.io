@@ -2,6 +2,7 @@
 site_name: Spectroscopies in Novel Superconductors 2026 – Santa Fe
 site_url: https://SNS2026.github.io
 
+
 # Mkdocs Theme (Material Mkdocs)
 theme:
   name: material
