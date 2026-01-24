@@ -7,12 +7,12 @@ title: About
 ---
 
 ## Organizing Committee
-* Jianxin Zhu, Los Alamos National Laboratory
-* Mun Chan, National High Magnetic Field Laboratory: Pulsed Field Facility
-* Christopher Lane, Los Alamos National Laboratory
+* Jianxin Zhu, <i>Los Alamos National Laboratory</i>
+* Mun Chan, <i>National High Magnetic Field Laboratory: Pulsed Field Facility</i>
+* Christopher Lane, <i>Los Alamos National Laboratory</i>
 
 ## Program Committee
-* Filip Ronning (Chair), Los Alamos National Laboratory
+* Filip Ronning (Chair), <i>Los Alamos National Laboratory</i>
 
 
 
