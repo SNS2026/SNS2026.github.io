@@ -21,6 +21,24 @@ title: About
 * Ming Yi, <i>Rice University</i>
 * Jian-Xin Zhu, <i>Los Alamos National Laboratory</i>
 
+## International Steering Committee
+* Arun Bansil (Chair), <i>USA</i>
+* Alexander Balatsky, <i>USA</i>
+* Kevin Bedell, <i>USA</i>
+* Juan Carlos Campuzano, <i>USA</i>
+* Tom Devereaux, <i>USA</i>
+* Donglai Feng, <i>China</i>
+* Zahid Hussain, <i>USA</i>
+* Sadamichi Maekawa, <i>Japan</i>
+* Zhi-Xun Shen, <i>USA</i>
+* Takashi Takahashi, <i>Japan</i>
+* Lu Yu, <i>China</i>
+* Zhong-Xian Zhao, <i>China</i>
+* Hide Takagi, <i>Germany</i>
+* Bernhard Keimer, <i>Germany</i>
+* Atsushi Fujimori, <i>Japan</i>
+* Tanmoy Das, <i>India</i>
+
 
 
 
