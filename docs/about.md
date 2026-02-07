@@ -21,6 +21,7 @@ title: About
 * Ming Yi, <i>Rice University</i>
 * Jian-Xin Zhu, <i>Los Alamos National Laboratory</i>
 
+<!--
 ## International Steering Committee
 * Arun Bansil (Chair), <i>USA</i>
 * Alexander Balatsky, <i>USA</i>
@@ -69,4 +70,4 @@ title: About
 * Yayu Wang, <i>Tsinghua University, China</i>
 * Guo-qing Zheng, <i>Okayama University, Japan</i>
 * Xingjiang Zhou, <i>IOP, CAS, China</i>
-
+-->
