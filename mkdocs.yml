@@ -6,17 +6,35 @@ site_url: https://sns2026.org
 # Mkdocs Theme (Material Mkdocs)
 theme:
   name: material
-  palette:
-    primary: "blue"
-    accent: "blue"
+  icon:
+    logo: material/atom-variant
+  favicon: assets/favicon_32.png
+  
+  font:
+    text: SN Pro
+
+  palette: 
+    # Palette toggle for light mode
+    - scheme: LANL_light
+      toggle:
+        icon: material/weather-night 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: LANL_dark
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+
   features:
     - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.top
-
-markdown_extensions:
-  - attr_list
-  - md_in_html
+    - navigation.sections
 
 nav:
   - Overview: index.md
@@ -26,3 +44,47 @@ nav:
   - Venue/Travel: location.md
   - Contact: contact.md
 
+
+copyright: Copyright &copy; 2026 SNS
+
+extra:
+  generator: false
+#  homepage: https://sns2026.org
+
+extra_css:
+  - stylesheets/extras.css
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  # Python Markdown
+  - abbr
+  - admonition
+#  - attr_list
+  - def_list
+  - footnotes
+#  - md_in_html
+  - toc:
+      permalink: true
+
+  # Python Markdown Extensions
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
