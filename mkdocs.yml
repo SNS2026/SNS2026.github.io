@@ -8,7 +8,7 @@ theme:
   name: material
   icon:
     logo: material/atom-variant
-  favicon: assets/favicon_32.png
+  favicon: assets/images/favicon_32.png
   
   font:
     text: SN Pro
