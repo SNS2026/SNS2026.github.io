@@ -24,4 +24,5 @@ nav:
   - Program: program.md
   - Venue/Travel: location.md
   - Contact: contact.md
+    - test: location.md
 
