@@ -10,6 +10,7 @@ theme:
     primary: "blue"
     accent: "blue"
   features:
+    - navigation.instant
     - navigation.tabs
     - navigation.top
 
@@ -24,5 +25,4 @@ nav:
   - Program: program.md
   - Venue/Travel: location.md
   - Contact: contact.md
-    - test: location.md
 
