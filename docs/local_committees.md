@@ -1,6 +1,5 @@
 ---
 hide:
-#  - navigation
   - toc
 title: Local Committee
 ---
