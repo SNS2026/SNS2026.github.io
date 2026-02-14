@@ -6,6 +6,8 @@ site_url: https://sns2026.org
 # Mkdocs Theme (Material Mkdocs)
 theme:
   name: material
+  custom_dir: docs/overrides
+  locale: en
   icon:
     logo: material/atom-variant
   favicon: assets/images/favicon_32.png
@@ -16,18 +18,19 @@ theme:
   palette: 
     # Palette toggle for light mode
     - scheme: LANL_light
-      toggle:
-        icon: material/weather-night 
-        name: Switch to dark mode
-
-    # Palette toggle for dark mode
-    - scheme: LANL_dark
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to light mode
+#      toggle:
+#        icon: material/weather-night 
+#        name: Switch to dark mode
+#
+#    # Palette toggle for dark mode
+#    - scheme: LANL_dark
+#      toggle:
+#        icon: material/weather-sunny
+#        name: Switch to light mode
 
 
   features:
+#    - announce.dismiss
     - navigation.instant
     - navigation.instant.progress
     - navigation.tracking
@@ -35,13 +38,26 @@ theme:
     - navigation.tabs.sticky
     - navigation.top
     - navigation.sections
+    - content.tabs.link
 
 nav:
-  - Overview: index.md
-  - About: about.md
-  - Participate: participate.md
-  - Program: program.md
-  - Venue/Travel: location.md
+  - Home: index.md
+  - About: 
+    - 'Local Committees': local_committees.md
+    - 'International Committees': int_committees.md
+    - 'Conference Policies': policies.md
+  - Participate: 
+    - Registration: register.md
+    - 'Abstract Submission': abstracts.md
+    - 'Visa Information': visa.md
+  - Program: 
+    - Schedule: schedule.md
+  - Attending: 
+    - Venue: venue.md
+    - Location: location.md
+    - Travel: travel.md
+    - Lodging: lodging.md
+  - Excursion: excursion.md
   - Contact: contact.md
 
 
