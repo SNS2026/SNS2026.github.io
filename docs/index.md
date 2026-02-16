@@ -36,7 +36,7 @@ SNS 2026 will follow a successful series of international conferences in Argonne
 
     We welcome researchers to contribute to SNS 2026 by submitting an abstract for our scientific Program.
 
-    [Submit Abstract :fontawesome-solid-arrow-right-to-bracket:](#){ .md-button }
+    [Submit Abstract :fontawesome-solid-arrow-right-to-bracket:](abstracts.md){ .md-button }
 
 -   :fontawesome-solid-ticket:{ .lg .middle} __Conference Registration__
 
@@ -46,7 +46,7 @@ SNS 2026 will follow a successful series of international conferences in Argonne
     You will also be given the opportunity to sign up for a selection of excursions.
 
 
-    [Register :fontawesome-solid-paper-plane:](#){ .md-button }
+    [Register :fontawesome-solid-paper-plane:](register.md){ .md-button }
 
 
 
