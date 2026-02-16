@@ -11,16 +11,16 @@
 :root  > * {
   --md-footer-bg-color: #030f79;
 }
-
+/*
 #bannerimage {
   width: 100%;
-  /* background-image: url('https://www.pytexas.org/2026/assets/images/logos/pytexas2026_day_color.svg'); */
   background-image: url(../assets/images/santa-fe.jpg);
   background-repeat: no-repeat;
   height: 400px;
   background-color: purple;
   background-position: center;
 }
+*/
 
 /*
 .md-grid {
