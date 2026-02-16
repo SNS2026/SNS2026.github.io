@@ -15,28 +15,17 @@ theme:
     text: SN Pro
 
   palette: 
-    # Palette toggle for light mode
     - scheme: LANL_light
-#      toggle:
-#        icon: material/weather-night 
-#        name: Switch to dark mode
-#
-#    # Palette toggle for dark mode
-#    - scheme: LANL_dark
-#      toggle:
-#        icon: material/weather-sunny
-#        name: Switch to light mode
-
 
   features:
 #    - announce.dismiss
     - navigation.instant
     - navigation.instant.progress
-    - navigation.tracking
+#    - navigation.tracking
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.top
-    - navigation.sections
+#    - navigation.sections
     - content.tabs.link
 
 nav:
@@ -72,19 +61,16 @@ extra_css:
 markdown_extensions:
   - attr_list
   - md_in_html
-  # Python Markdown
   - abbr
   - admonition
-#  - attr_list
   - def_list
   - footnotes
-#  - md_in_html
   - toc:
       permalink: true
 
   # Python Markdown Extensions
-  - pymdownx.arithmatex:
-      generic: true
+#  - pymdownx.arithmatex:
+#      generic: true
   - pymdownx.betterem:
       smart_enable: all
   - pymdownx.caret
