@@ -1,12 +1,37 @@
 ---
 hide:
-  - toc
+
 title: Abstract Submission
 ---
 
 
+## :fontawesome-regular-calendar-days: Important Dates
+- **Abstract Submission:** date, 2026 - date, 2026 (11:59 pm MT)
+- **Notification of Acceptance:** date, 2026
+- **Manuscript Submission:** date, 2026 - date, 2026 (11:59 pm JST)
+
+## :fontawesome-solid-clipboard-list: Topics
+- Topic 1
+
+- Topic 2
+
+## :fontawesome-solid-file-arrow-up: Abstract Submission
+All abstract registrations (including invited speakers) must be submitted through the online submission system. Registrations sent via e-mail, fax, or post will not be accepted. Please read the following instructions carefully before starting your abstract submission.
 
 
-<br>Thank you for your interest, more information will be posted shortly.
+=== "Abstract Template"
+Use the template below for your abstract submission.
+
+[Abstract Template :fontawesome-solid-file-arrow-down:](assets/files/test_template.txt){:download="SNS_2026_Abstract_Teamplate.txt" .md-button }
+
+=== "Abstract Submission"
+Please click the button below to submit your abstract.
+
+[Submit Abstract :fontawesome-solid-arrow-right-to-bracket:](#){ .md-button }
+
+Presentation preferences (oral or poster) will be considered, but the final program will be determined by the Program Committee. While we will do our best to accommodate your preferences, we appreciate your understanding if adjustments are necessary.
+ 
+You will not receive a confirmation email upon submission. 
+
 
 
