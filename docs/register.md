@@ -2,7 +2,8 @@
 title: Registration
 ---
 
-
+The conference will take place over **five days** and offers a full program of talks, poster sessions, networking opportunities, and social events.
+<!-- We offer early-bird, regular, and on-site rates, as well as discounted student tickets. -->
 
 ## :fontawesome-regular-calendar-days: Registration Period
 - **Early-bird Registration:** date, 2026 - date, 2026 (11:59 pm MT)
