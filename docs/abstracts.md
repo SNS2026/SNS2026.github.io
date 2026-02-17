@@ -33,5 +33,12 @@ Presentation preferences (oral or poster) will be considered, but the final prog
  
 You will not receive a confirmation email upon submission. 
 
+<!--
+## Poster Award
+SNS 2026 will feature poster awards.
 
+It is restricted to undergraduate students, graduate students, and postdoctoral fellows within the first 5 years after receiving their PhD.
+
+If you wish to be considered for the Poster Award, please apply through the abstract submission system.
+-->
 
