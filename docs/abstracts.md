@@ -15,7 +15,7 @@ title: Abstract Submission
 
 - Topic 2
 
-## :fontawesome-solid-file-arrow-up: Abstract Submission
+## :fontawesome-solid-file-lines: Abstract Submission
 All abstract registrations (including invited speakers) must be submitted through the online submission system. Registrations sent via e-mail, fax, or post will not be accepted. Please read the following instructions carefully before starting your abstract submission.
 
 
