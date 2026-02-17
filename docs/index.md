@@ -17,7 +17,7 @@ SNS 2026 will follow a successful series of international conferences in Argonne
 -   :fontawesome-regular-calendar-check:{ .lg .middle} __Important Dates__
 
     ---
-    **Date, 2026:** Abstract Submission Period
+    **Date, 2026:** Abstract Submission Opens
 
     **Date, 2026:** Early Registration Opens
     
