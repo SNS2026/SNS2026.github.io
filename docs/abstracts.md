@@ -4,6 +4,9 @@ hide:
 title: Abstract Submission
 ---
 
+We welcome researchers to contribute to SNS 2026 by submitting an abstract for our scientific program. 
+There are dedicated slots available for contributed oral presenations as well as poster presentations. 
+You can indicate your preferred presentation format (poster and/or talk) during the submission process.
 
 ## :fontawesome-regular-calendar-days: Important Dates
 - **Abstract Submission:** date, 2026 - date, 2026 (11:59 pm MT)
