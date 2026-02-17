@@ -19,9 +19,21 @@ Even if your contribution is accepted, a conference ticket must be purchased thr
 - **Manuscript Submission:** date, 2026 - date, 2026 (11:59 pm JST)
 
 ## :fontawesome-solid-clipboard-list: Topics
-- Topic 1
+- High-Temperature Cuprates
 
-- Topic 2
+- Fe-based Superconductors
+
+- Heavy-Fermion Superconductors
+
+- Twisted Moiré / Twisted Quantum Materials
+
+- Topological Superconductivity
+
+- Nickelate Superconductors
+
+- Strongly-Correlated Electron Theory & Approaches Relevant to Superconductivity
+
+- Discovery & Design of New Superconductors (Higher T<sub>c</sub>)
 
 ## :fontawesome-solid-file-lines: Abstract Submission
 All abstract registrations (including invited speakers) must be submitted through the online submission system. Registrations sent via e-mail, fax, or post will not be accepted. Please read the following instructions carefully before starting your abstract submission.
