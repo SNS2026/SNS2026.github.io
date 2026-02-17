@@ -5,7 +5,7 @@ hide:
 title: Excursion
 ---
 
-
+# Excursions
 
 ## :fontawesome-brands-pagelines: Bandelier National Monument
 
