@@ -49,15 +49,19 @@ SNS 2026 will follow a successful series of international conferences in Argonne
 
     [Register :fontawesome-solid-paper-plane:](register.md){ .md-button }
 
-
-
-
 <!--
 <small class="text-muted form-text">
     We'll never share your details. Refer to our [privacy statement](privacy.md).
 </small>
 -->
-
 </div>
+
+<style>
+p.pos_fixed {
+    text-align:center;
+}
+</style>
+
+<p class="pos_fixed"><img src="../assets/images/sponsors.png" width="55%" height="55%"></p>
 
 
