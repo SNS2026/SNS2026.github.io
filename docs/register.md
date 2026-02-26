@@ -14,6 +14,7 @@ Click the button below to begin your registration.
 
 [Register Now :fontawesome-solid-paper-plane:](#){ .md-button }
 
+When registering please indicate if you will need documents to support your visa application: we can provide a letter of invitation, overview of the conference, itinerary in the United States
 
 ## :fontawesome-solid-table-list: Registration Category
 Payments are accepted by credit card only via the registration system.
