@@ -61,6 +61,9 @@ Presentation preferences (oral or poster) will be considered, but the final prog
  
 You will receive a confirmation email upon submission. 
 
+
+If you experience technical difficulties, please contact us at [info@sns2026.org](mailto:info@sns2026.org).
+
 <!--
 ## Poster Award
 SNS 2026 will feature poster awards.
