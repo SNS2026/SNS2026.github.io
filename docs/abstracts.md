@@ -8,18 +8,16 @@ We welcome researchers to contribute to SNS 2026 by submitting an abstract for o
 In addition to the invited talks, there are dedicated slots available for contributed oral presenations as well as poster presentations. 
 You can indicate your preferred presentation format (poster and/or talk) during the submission process. 
 
-:fontawesome-solid-angle-right: All submitted contributed abstracts will receive a presentation (oral or poster), until the conference is full.
-
-
 **Please note that abstract submission and conference registration are separate processes.** 
 
 All invited and contributed presenters must register for the conference via the [Registration Portal](register.md).
 
 ## :fontawesome-regular-calendar-days: Important Dates
 
-- **Abstract Submission:** date, 2026 - date, 2026 (11:59 pm MT)
-- **Notification of Acceptance:** date, 2026
-- **Manuscript Submission:** date, 2026 - date, 2026 (11:59 pm JST)
+- **Abstract Submission:** March 2, 2026 - May 31, 2026 (11:59 pm MT)
+- **Notification of Presentation Type:** June 15, 2026
+
+:fontawesome-solid-angle-right: All submitted contributed abstracts will receive a presentation (oral or poster), until the conference is full.
 
 Abstracts must be submitted by the deadline to guarantee acceptance and inclusion in the scientific program.
 Meeting organizers are not obligated to include contributed abstracts submitted after the deadline.
