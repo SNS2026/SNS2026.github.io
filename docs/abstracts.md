@@ -44,7 +44,7 @@ The abstract submission **does not** include conference registration. All invite
 <u>Information you will need to complete the submission process</u>
 
  - Title of the presentation in English (max. 100 characters, including spaces)
- - Name and affilation of the presenter and all co-authors.
+ - Name and affiliation of the presenter and all co-authors
  - Full Abstract (abstract, max. 300 words)
  - Presentation Preference Type: Poster and/or Talk
 
