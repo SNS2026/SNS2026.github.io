@@ -5,7 +5,7 @@ title: Registration
 The conference will take place over **five days** and offers a full program of talks, poster sessions, networking opportunities, and social events.
 
 ## :fontawesome-regular-calendar-days: Registration Period
-- **Open Registration:** March 15, 2026 - August 24, 2026 (11:59 pm MT)
+- **Registration:** March 15, 2026 - August 24, 2026 (11:59 pm MT)
 - **On-site Registration:** August 24, 2026 - August 28, 2026 
 
 Click the button below to begin your registration.
