@@ -35,7 +35,7 @@ We encourage all participants to register early, especially International partic
 :fontawesome-solid-triangle-exclamation: When registering please indicate if you will need documents to support your visa application: we can provide a letter of invitation, overview of the conference, itinerary in the United States.
 
 === "Register"
-Please click the button below to register for SNS 2026.
+Please click the button below to register.
 
 [Register Now :fontawesome-solid-paper-plane:](#){ .md-button target="_blank"}
 
