@@ -31,8 +31,8 @@ We encourage all participants to register early, especially International partic
 
 Accompanying persons are welcome to attend the Welcome Reception and coffee breaks.
 
-
-Click the button below to begin your registration.
+=== "Abstract Submission"
+Please click the button below to register for SNS 2026.
 
 [Register Now :fontawesome-solid-paper-plane:](#){ .md-button }
 
