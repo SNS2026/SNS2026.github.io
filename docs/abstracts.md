@@ -38,6 +38,12 @@ Meeting organizers are not obligated to include contributed abstracts submitted 
 ## :fontawesome-solid-file-lines: Abstract Submission
 All abstract registrations (including invited speakers) must be submitted through the online submission system. Registrations sent via e-mail, fax, or post will not be accepted. Please read the following instructions carefully before starting your abstract submission.
 
+<u>Information you will need to complete the submission process:</u>
+ - Title of the presentation in English (max. 100 characters, including spaces)
+ - Name and affilation of the presenter and all co-authors.
+ - Full Abstract (abstract, max. 300 words)
+ - Presentation Preference Type: Poster and/or Talk
+
 <!--
 === "Abstract Template"
 Use the template below for your abstract submission.
