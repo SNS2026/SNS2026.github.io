@@ -42,11 +42,12 @@ Meeting organizers are not obligated to include contributed abstracts submitted 
 ## :fontawesome-solid-file-lines: Abstract Submission
 All abstract registrations (including invited speakers) must be submitted through the online submission system. Registrations sent via e-mail, fax, or post will not be accepted. Please read the following instructions carefully before starting your abstract submission.
 
-
+<!--
 === "Abstract Template"
 Use the template below for your abstract submission.
 
 [Abstract Template :fontawesome-solid-file-arrow-down:](assets/files/test_template.txt){:download="SNS_2026_Abstract_Teamplate.txt" .md-button }
+-->
 
 === "Abstract Submission"
 Please click the button below to submit your abstract.
