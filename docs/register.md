@@ -10,9 +10,7 @@ The conference will take place over **five days** and offers a full program of t
 
 Registration will remain open until the conference is full.
 
-## :fontawesome-solid-table-list: Registration
-Payments are accepted by credit card only via the registration system.
-
+## :fontawesome-solid-table-list: Registration Fee
 The registration fee includes:
 
 - Participation in Scientific Program (Oral Presenations & Poster Sessions)
@@ -27,17 +25,16 @@ The registration fee includes:
 | :---------: | :---------: |
 | Standard    | $XX         |
 
-We encourage all participants to register early, especially International participants to allow for visa processing times.
-
 Accompanying persons are welcome to attend the Welcome Reception and coffee breaks.
 
 === "Abstract Submission"
 Please click the button below to register for SNS 2026.
 
-[Register Now :fontawesome-solid-paper-plane:](#){ .md-button }
+[Register Now :fontawesome-solid-paper-plane:](#){ .md-button target="_blank"}
 
-When registering please indicate if you will need documents to support your visa application: we can provide a letter of invitation, overview of the conference, itinerary in the United States
+We encourage all participants to register early, especially International participants to allow for visa processing times.
 
+:fontawesome-solid-triangle-exclamation: When registering please indicate if you will need documents to support your visa application: we can provide a letter of invitation, overview of the conference, itinerary in the United States.
 
 <!--
 Banquet - $XX per person
