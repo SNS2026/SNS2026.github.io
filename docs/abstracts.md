@@ -8,10 +8,6 @@ We welcome researchers to contribute to SNS 2026 by submitting an abstract for o
 In addition to the invited talks, there are dedicated slots available for contributed oral presenations as well as poster presentations. 
 You can indicate your preferred presentation format (poster and/or talk) during the submission process. 
 
-**Please note that abstract submission and conference registration are separate processes.** 
-
-All invited and contributed presenters must register for the conference via the [Registration Portal](register.md).
-
 ## :fontawesome-regular-calendar-days: Important Dates
 
 - **Abstract Submission:** March 2, 2026 - May 31, 2026 (11:59 pm MT)
@@ -49,6 +45,9 @@ Use the template below for your abstract submission.
 [Abstract Template :fontawesome-solid-file-arrow-down:](assets/files/test_template.txt){:download="SNS_2026_Abstract_Teamplate.txt" .md-button }
 -->
 
+**Please note:**
+The abstract submission **does not** include conference registration. All invited and contributed presenters must register for the conference via the [Registration Portal](register.md).
+
 === "Abstract Submission"
 Please click the button below to submit your abstract.
 
@@ -56,7 +55,7 @@ Please click the button below to submit your abstract.
 
 Presentation preferences (oral or poster) will be considered, but the final program will be determined by the Program Committee. While we will do our best to accommodate your preferences, we appreciate your understanding if adjustments are necessary.
  
-You will not receive a confirmation email upon submission. 
+You will receive a confirmation email upon submission. 
 
 <!--
 ## Poster Award
