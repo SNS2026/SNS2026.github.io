@@ -42,6 +42,6 @@ Accompanying persons are welcome to attend the Welcome Reception and coffee brea
 -->
 
 ## Researcher Grants
-Limited financial support for travel will be available. 
+Limited financial support for travel will be available upon request. 
 
 
