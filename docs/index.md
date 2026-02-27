@@ -31,7 +31,9 @@ SNS 2026 will follow a successful series of international conferences in Argonne
 
     ---
 
-    Abstract submission closes on **Date, 2026**
+    Abstract submission closes on **May 31, 2026**
+
+    Notification of presentation type on **June 15, 2026**
 
     We welcome researchers to contribute to SNS 2026 by submitting an abstract for our scientific Program.
 
