@@ -8,15 +8,9 @@ The conference will take place over **five days** and offers a full program of t
 - **Registration:** March 15, 2026 - August 24, 2026 (11:59 pm MT)
 - **On-site Registration:** August 24, 2026 - August 28, 2026 
 
-Click the button below to begin your registration.
-
-[Register Now :fontawesome-solid-paper-plane:](#){ .md-button }
-
-When registering please indicate if you will need documents to support your visa application: we can provide a letter of invitation, overview of the conference, itinerary in the United States
-
 Registration will remain open until the conference is full.
 
-## :fontawesome-solid-table-list: Registration Category
+## :fontawesome-solid-table-list: Registration
 Payments are accepted by credit card only via the registration system.
 
 The registration fee includes:
@@ -36,6 +30,15 @@ The registration fee includes:
 We encourage all participants to register early, especially International participants to allow for visa processing times.
 
 Accompanying persons are welcome to attend the Welcome Reception and coffee breaks.
+
+
+Click the button below to begin your registration.
+
+[Register Now :fontawesome-solid-paper-plane:](#){ .md-button }
+
+When registering please indicate if you will need documents to support your visa application: we can provide a letter of invitation, overview of the conference, itinerary in the United States
+
+
 <!--
 Banquet - $XX per person
 Conference dinner tickets are not included in the registration fee. Please purchase the relevant number of tickets separately if you plan to attend.
