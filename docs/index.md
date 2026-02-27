@@ -17,15 +17,13 @@ SNS 2026 will follow a successful series of international conferences in Argonne
 -   :fontawesome-regular-calendar-check:{ .lg .middle} __Important Dates__
 
     ---
-    **Date, 2026:** Abstract Submission Opens
+    **March 2, 2026:** Abstract Submission Opens
 
-    **Date, 2026:** Early Registration Opens
+    **March 15, 2026:** Registration Opens
     
-    **Date, 2026:** Early Registration Closes
+    **May 31, 2026:** Abstract Submission Closes
     
-    **Date, 2026:** Regular Registration Opens
-    
-    **Date, 2026:** Conference Begins
+    **August 24, 2026:** Conference Begins
 
     <!-- [:octicons-arrow-right-24: PyTexas 2026 Website](https://pytexas.org/2026) -->
 
