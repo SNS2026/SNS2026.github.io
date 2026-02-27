@@ -19,7 +19,7 @@ All invited and contributed presenters must register for the conference via the 
 
 :fontawesome-solid-angle-right: All submitted contributed abstracts will receive a presentation (oral or poster), until the conference is full.
 
-Abstracts must be submitted by the deadline to guarantee acceptance and inclusion in the scientific program.
+Abstracts must be submitted by the deadline to guarantee inclusion in the scientific program.
 Meeting organizers are not obligated to include contributed abstracts submitted after the deadline.
 
 ## :fontawesome-solid-clipboard-list: Topics
