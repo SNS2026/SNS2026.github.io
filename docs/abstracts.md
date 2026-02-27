@@ -41,18 +41,12 @@ All abstract registrations (including invited speakers) must be submitted throug
 **Please note:**
 The abstract submission **does not** include conference registration. All invited and contributed presenters must register for the conference via the [Registration Portal](register.md).
 
-###Information you will need to complete the submission process
+<u>Information you will need to complete the submission process</u>
+
  - Title of the presentation in English (max. 100 characters, including spaces)
  - Name and affilation of the presenter and all co-authors.
  - Full Abstract (abstract, max. 300 words)
  - Presentation Preference Type: Poster and/or Talk
-
-<!--
-=== "Abstract Template"
-Use the template below for your abstract submission.
-
-[Abstract Template :fontawesome-solid-file-arrow-down:](assets/files/test_template.txt){:download="SNS_2026_Abstract_Teamplate.txt" .md-button }
--->
 
 
 === "Abstract Submission"
@@ -73,3 +67,10 @@ It is restricted to undergraduate students, graduate students, and postdoctoral 
 If you wish to be considered for the Poster Award, please apply through the abstract submission system.
 -->
 
+
+<!--
+=== "Abstract Template"
+Use the template below for your abstract submission.
+
+[Abstract Template :fontawesome-solid-file-arrow-down:](assets/files/test_template.txt){:download="SNS_2026_Abstract_Teamplate.txt" .md-button }
+-->
