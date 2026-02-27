@@ -12,12 +12,17 @@ You can indicate your preferred presentation format (poster and/or talk) during 
 
 
 **Please note that abstract submission and conference registration are separate processes.** 
-Even if your contribution is accepted, a conference ticket must be purchased through the registration portal. 
+
+All invited and contributed presenters must register for the conference via the [Registration Portal](register.md).
 
 ## :fontawesome-regular-calendar-days: Important Dates
+
 - **Abstract Submission:** date, 2026 - date, 2026 (11:59 pm MT)
 - **Notification of Acceptance:** date, 2026
 - **Manuscript Submission:** date, 2026 - date, 2026 (11:59 pm JST)
+
+Abstracts must be submitted by the deadline to guarantee acceptance and inclusion in the scientific program.
+Meeting organizers are not obligated to include contributed abstracts submitted after the deadline.
 
 ## :fontawesome-solid-clipboard-list: Topics
 - High-Temperature Cuprates
