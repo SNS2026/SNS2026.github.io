@@ -53,7 +53,7 @@ The abstract submission **does not** include conference registration. All invite
 === "Abstract Submission"
 Please click the button below to submit your abstract.
 
-[Submit Abstract :fontawesome-solid-arrow-right-to-bracket:](https://docs.google.com/forms/d/e/1FAIpQLSdDP3HCaJyonMZPdBkAiFiRFSArF6050NVxqafZeQdFEGLHcA/viewform?usp=dialog){ .md-button  :target="_blank" }
+[Submit Abstract :fontawesome-solid-arrow-right-to-bracket:](https://docs.google.com/forms/d/e/1FAIpQLSdDP3HCaJyonMZPdBkAiFiRFSArF6050NVxqafZeQdFEGLHcA/viewform?usp=dialog){ .md-button  target="_blank" }
 
 :fontawesome-solid-triangle-exclamation: The abstract submitter must be the one who makes the presentation. Each presenter can submit only **ONE** abstract for this conference.
 
