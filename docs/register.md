@@ -28,15 +28,18 @@ The registration fee includes:
 
 Accompanying persons are welcome to attend the Welcome Reception and coffee breaks.
 
+## :fontawesome-solid-table-list: Register for SNS 2026
+
+We encourage all participants to register early, especially International participants to allow for visa processing times.
+
+:fontawesome-solid-triangle-exclamation: When registering please indicate if you will need documents to support your visa application: we can provide a letter of invitation, overview of the conference, itinerary in the United States.
 
 === "Register"
 Please click the button below to register for SNS 2026.
 
 [Register Now :fontawesome-solid-paper-plane:](#){ .md-button target="_blank"}
 
-We encourage all participants to register early, especially International participants to allow for visa processing times.
 
-:fontawesome-solid-triangle-exclamation: When registering please indicate if you will need documents to support your visa application: we can provide a letter of invitation, overview of the conference, itinerary in the United States.
 
 
 <!--
