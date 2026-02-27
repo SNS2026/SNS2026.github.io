@@ -12,15 +12,6 @@ All presenters **must** register to attend.
 
 Registration will remain open until the conference is full.
 
-=== "Register"
-Please click the button below to register for SNS 2026.
-
-[Register Now :fontawesome-solid-paper-plane:](#){ .md-button target="_blank"}
-
-We encourage all participants to register early, especially International participants to allow for visa processing times.
-
-:fontawesome-solid-triangle-exclamation: When registering please indicate if you will need documents to support your visa application: we can provide a letter of invitation, overview of the conference, itinerary in the United States.
-
 ## :fontawesome-solid-table-list: Registration Fee
 
 **Registration Fee:** $XX (USD)
@@ -35,8 +26,18 @@ The registration fee includes:
 
 - Conference Banquet
 
-
 Accompanying persons are welcome to attend the Welcome Reception and coffee breaks.
+
+
+=== "Register"
+Please click the button below to register for SNS 2026.
+
+[Register Now :fontawesome-solid-paper-plane:](#){ .md-button target="_blank"}
+
+We encourage all participants to register early, especially International participants to allow for visa processing times.
+
+:fontawesome-solid-triangle-exclamation: When registering please indicate if you will need documents to support your visa application: we can provide a letter of invitation, overview of the conference, itinerary in the United States.
+
 
 <!--
 Banquet - $XX per person
