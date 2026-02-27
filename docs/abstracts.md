@@ -55,7 +55,7 @@ Please click the button below to submit your abstract.
 
 [Submit Abstract :fontawesome-solid-arrow-right-to-bracket:](https://docs.google.com/forms/d/e/1FAIpQLSdDP3HCaJyonMZPdBkAiFiRFSArF6050NVxqafZeQdFEGLHcA/viewform?usp=dialog){ .md-button }
 
-:fontawesome-solid-triangle-exclamation: The abstract submitter must be the one who makes the presentation. Each presenter can submit only ONE abstract for this conference.
+:fontawesome-solid-triangle-exclamation: The abstract submitter must be the one who makes the presentation. Each presenter can submit only **ONE** abstract for this conference.
 
 Presentation preferences (oral or poster) will be considered, but the final program will be determined by the Program Committee. While we will do our best to accommodate your preferences, we appreciate your understanding if adjustments are necessary.
  
