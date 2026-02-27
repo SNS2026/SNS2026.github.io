@@ -38,7 +38,10 @@ Meeting organizers are not obligated to include contributed abstracts submitted 
 ## :fontawesome-solid-file-lines: Abstract Submission
 All abstract registrations (including invited speakers) must be submitted through the online submission system. Registrations sent via e-mail, fax, or post will not be accepted. Please read the following instructions carefully before starting your abstract submission.
 
-=== "Information you will need to complete the submission process"
+**Please note:**
+The abstract submission **does not** include conference registration. All invited and contributed presenters must register for the conference via the [Registration Portal](register.md).
+
+###Information you will need to complete the submission process
  - Title of the presentation in English (max. 100 characters, including spaces)
  - Name and affilation of the presenter and all co-authors.
  - Full Abstract (abstract, max. 300 words)
@@ -51,8 +54,6 @@ Use the template below for your abstract submission.
 [Abstract Template :fontawesome-solid-file-arrow-down:](assets/files/test_template.txt){:download="SNS_2026_Abstract_Teamplate.txt" .md-button }
 -->
 
-**Please note:**
-The abstract submission **does not** include conference registration. All invited and contributed presenters must register for the conference via the [Registration Portal](register.md).
 
 === "Abstract Submission"
 Please click the button below to submit your abstract.
