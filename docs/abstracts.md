@@ -52,7 +52,7 @@ The abstract submission **does not** include conference registration. All invite
 === "Abstract Submission"
 Please click the button below to submit your abstract.
 
-[Submit Abstract :fontawesome-solid-arrow-right-to-bracket:](#){ .md-button }
+[Submit Abstract :fontawesome-solid-arrow-right-to-bracket:]([#](https://docs.google.com/forms/d/e/1FAIpQLSdDP3HCaJyonMZPdBkAiFiRFSArF6050NVxqafZeQdFEGLHcA/viewform?usp=dialog)){ .md-button }
 
 Presentation preferences (oral or poster) will be considered, but the final program will be determined by the Program Committee. While we will do our best to accommodate your preferences, we appreciate your understanding if adjustments are necessary.
  
