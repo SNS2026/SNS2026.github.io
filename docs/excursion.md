@@ -7,6 +7,9 @@ title: Excursion
 
 # Excursions
 
+Currently being decided. 
+
+<!--
 ## :fontawesome-brands-pagelines: Bandelier National Monument
 
 
@@ -14,5 +17,5 @@ title: Excursion
 
 
 ## :fontawesome-solid-magnet: National High Magnetic Field Laboratory: Pulsed Field Facility
-
+-->
     
