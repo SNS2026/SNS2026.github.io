@@ -41,17 +41,6 @@ Please click the button below to register.
 
 [Register Now :fontawesome-solid-paper-plane:](#){ .md-button target="_blank"}
 
-
-
-
-<!--
-Banquet - $XX per person
-Conference dinner tickets are not included in the registration fee. Please purchase the relevant number of tickets separately if you plan to attend.
-The banquet has a limited number of seats available. We recommend early registration.
-
-Accompanying Person - $XX per person
--->
-
 ## Researcher Grants
 Limited financial support for travel will be available upon request. 
 
