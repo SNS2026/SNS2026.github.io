@@ -26,9 +26,7 @@ The registration fee includes:
 
 - Conference Banquet
 
-Accompanying persons are welcome to attend the Welcome Reception and Coffee/Tea Breaks. 
-
-To attend the conference banquet, there is an addiotnal fee $XX per accompanying person.
+Accompanying persons are welcome to attend the Welcome Reception and Coffee/Tea Breaks. To attend the conference banquet, there is an addiotnal fee $XX per accompanying person.
 
 ## :fontawesome-solid-table-list: Register for SNS 2026
 
