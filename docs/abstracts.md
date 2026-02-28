@@ -58,7 +58,7 @@ Please click the button below to submit your abstract.
 :fontawesome-solid-triangle-exclamation: The abstract submitter must be the one who makes the presentation. Each presenter can submit only **ONE** abstract for this conference.
 
 Presentation preferences (oral or poster) will be considered, but the final program will be determined by the Program Committee. While we will do our best to accommodate your preferences, we appreciate your understanding if adjustments are necessary.
- 
+
 You will receive a confirmation email upon submission. 
 
 
