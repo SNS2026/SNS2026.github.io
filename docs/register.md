@@ -41,7 +41,7 @@ Please click the button below to register.
 
 [Register Now :fontawesome-solid-paper-plane:](#){ .md-button target="_blank"}
 
-## Researcher Grants
+## Researcher Travel Grants
 Limited financial support for travel will be available upon request. 
 
 
