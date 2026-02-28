@@ -3,6 +3,8 @@ title: Visa Information
 ---
 
 
+We encourage all international participants to register early to allow enough time for visa processing.
+
 ## Letter of Invitation
 
 All international meeting registrants will receive a visa invitation letter upon completion of registration.
