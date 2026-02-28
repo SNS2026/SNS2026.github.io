@@ -37,6 +37,7 @@ We encourage all participants to register early, especially International partic
 <u>Information you will need to complete the registration process</u>
 
  - Name and information of participant
+ - Need for visa application supporting documents
  - Number of accompanying persons to attend the conference banquet
  - Interest in visiting Los Alamos National Laboratory and/or the National High Magnetic Field Laboratory: Pulsed Field Facility
 
