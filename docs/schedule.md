@@ -4,10 +4,7 @@ hide:
 title: Conference Schedule
 ---
 
-Coming soon!
-
-<!--
 <p align="center">
-  <img src="../assets/images/Schedule2026.png" />
+  <img src="../assets/images/Program_Overview.png" />
 </p>
--->
+
