@@ -28,7 +28,7 @@ The registration fee includes:
 
 Accompanying persons are welcome to attend the Welcome Reception and Coffee/Tea Breaks. To attend the conference banquet, there is an additional fee $XX per accompanying person.
 
-## :fontawesome-solid-table-list: Register for SNS 2026
+## :fontawesome-solid-arrows-to_circle: Register for SNS 2026
 
 We encourage all participants to register early, especially International participants to allow for visa processing times.
 
