@@ -12,7 +12,7 @@ All presenters **must** register to attend.
 
 Registration will remain open until the conference is full.
 
-## :fontawesome-solid-table-list: Registration Fee
+## :fontawesome-solid-dollar-sign: Registration Fee
 
 **Registration Fee:** $XX (USD)
 
