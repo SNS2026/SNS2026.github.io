@@ -53,4 +53,4 @@ The Bureau of Consular Affairs provides estimated visa wait times for interviews
 
 * [List of US Embassies and Consulates](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/list-of-posts.html){target="_blank"}
 
-The above information has been adapted from the [American Physical Society: Visa Guidance](https://www.aps.org/about/international/travel-guidance/international-visitors){target="_blank"}.
+The above information has been adapted from the [American Physical Society](https://www.aps.org/about/international/travel-guidance/international-visitors){target="_blank"}.
