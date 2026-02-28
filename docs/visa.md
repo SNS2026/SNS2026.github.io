@@ -19,7 +19,7 @@ Allow three to five business days to receive your letter of invitation for a vis
 
 ## If you have visa problems
 
-The [National Academies’ International Visitors Office (IVO)](https://www.nationalacademies.org/our-work/international-visitors-office) is a valuable resource on visa-related issues for scientists. 
+The [National Academies’ International Visitors Office (IVO)](https://www.nationalacademies.org/our-work/international-visitors-office){target="_blank"} is a valuable resource on visa-related issues for scientists. 
 
 ## Avoiding Visa Problems
 
@@ -39,12 +39,12 @@ The best way to avoid visa issues and delays is to:
 
 The Bureau of Consular Affairs provides estimated visa wait times for interviews and non-immigrant visa processing at every U.S. Consular office worldwide.
 
-[View estimated visa appointment wait times](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/wait-times.html)
+[View estimated visa appointment wait times](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/wait-times.html){target="_blank"}
 
 ## Other Vise Resources
 
-* [American Physical Society: Visa Guidance](https://www.aps.org/about/international/travel-guidance/international-visitors)
+* [American Physical Society: Visa Guidance](https://www.aps.org/about/international/travel-guidance/international-visitors){target="_blank"}
 
-* [US Department of State](https://travel.state.gov/content/travel/en/us-visas.html)
+* [US Department of State](https://travel.state.gov/content/travel/en/us-visas.html){target="_blank"}
 
-The above information has been adapted from the [American Physical Society: Visa Guidance](https://www.aps.org/about/international/travel-guidance/international-visitors).
+The above information has been adapted from the [American Physical Society: Visa Guidance](https://www.aps.org/about/international/travel-guidance/international-visitors){target="_blank"}.
