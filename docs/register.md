@@ -34,7 +34,7 @@ To attend the conference banquet, there is an addiotnal fee $XX per accompanying
 
 We encourage all participants to register early, especially International participants to allow for visa processing times.
 
-:fontawesome-solid-triangle-exclamation: When registering please indicate if you will need documents to support your visa application: we can provide a letter of invitation, overview of the conference, itinerary in the United States.
+:fontawesome-solid-triangle-exclamation: When registering please indicate if you will need documents to support your visa application. We can provide a letter of invitation, overview of the conference, itinerary in the United States.
 
 === "Register"
 Please click the button below to register.
