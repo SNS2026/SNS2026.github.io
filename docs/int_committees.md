@@ -4,11 +4,6 @@ hide:
 title: International Committees
 ---
 
-
-## International Steering Committee
-
-##International Advisory Committee
-
 ## International Steering Committee
 * Arun Bansil (Chair), <i>USA</i>
 * Alexander Balatsky, <i>USA</i>
@@ -27,7 +22,7 @@ title: International Committees
 * Atsushi Fujimori, <i>Japan</i>
 * Tanmoy Das, <i>India</i>
 
-##International Advisory Committee
+## International Advisory Committee
 * Peter Armitage, <i>John Hopkins University, USA</i>
 * Ganapathy Baskaran, <i>Institute of Mathematical Sciences, India</i>
 * Bernd Buechner, <i>IFW Dresden, Germany</i>
