@@ -5,22 +5,22 @@ title: International Committees
 ---
 
 ## International Steering Committee
-* Arun Bansil (Chair), <i>USA</i>
-* Alexander Balatsky, <i>USA</i>
-* Kevin Bedell, <i>USA</i>
-* Juan Carlos Campuzano, <i>USA</i>
-* Tom Devereaux, <i>USA</i>
-* Donglai Feng, <i>China</i>
-* Zahid Hussain, <i>USA</i>
-* Sadamichi Maekawa, <i>Japan</i>
-* Zhi-Xun Shen, <i>USA</i>
-* Takashi Takahashi, <i>Japan</i>
-* Lu Yu, <i>China</i>
-* Zhong-Xian Zhao, <i>China</i>
-* Hide Takagi, <i>Germany</i>
-* Bernhard Keimer, <i>Germany</i>
-* Atsushi Fujimori, <i>Japan</i>
-* Tanmoy Das, <i>India</i>
+* Arun Bansil (Chair), <i>Northeastern Univerity, USA</i>
+* Alexander Balatsky, <i>University of Connecticut / NORDITA, USA</i>
+* Kevin Bedell, <i>Boston College, USA</i>
+* Juan Carlos Campuzano, <i>University of Illinois Chicago, USA</i>
+* Tom Devereaux, <i>Stanford University, USA</i>
+* Donglai Feng, <i>USTC, China</i>
+* Zahid Hussain, <i>LBNL, USA</i>
+* Sadamichi Maekawa, <i>Tohoku University / RIKEN, Japan</i>
+* Zhi-Xun Shen, <i>Stanford University, USA</i>
+* Takashi Takahashi, <i>University of Tokyo, Japan</i>
+* Lu Yu, <i>IOP, CAS, China</i>
+* Zhong-Xian Zhao, <i>IOP, CAS, China</i>
+* Hidenori Takagi, <i>MPI for Solid State Research, Germany</i>
+* Bernhard Keimer, <i>MPI for Solid State Research, Germany</i>
+* Atsushi Fujimori, <i>University of Tokyo / National Tsing Hua University, Japan</i>
+* Tanmoy Das, <i>IIS, India</i>
 
 ## International Advisory Committee
 * Peter Armitage, <i>John Hopkins University, USA</i>
