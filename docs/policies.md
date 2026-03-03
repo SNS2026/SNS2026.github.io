@@ -3,7 +3,7 @@ title: Conference Policies
 ---
 
 
-# Conference Code of Condeuct
+## Conference Code of Condeuct
 
 It is the policy of SNS 2026 that all participants, including attendees, vendors, staff, volunteers, and everyone else at this meeting, will conduct themselves in a respectful manner that is welcoming to all participants and free from any form of discrimination, harassment, or retaliation.
 
