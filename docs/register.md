@@ -14,7 +14,7 @@ Registration will remain open until the conference is full.
 
 ## :fontawesome-solid-dollar-sign: Registration Fee
 
-**Registration Fee:** $400 (USD)
+**Registration Fee:** $400 USD
 
 The registration fee includes:
 
