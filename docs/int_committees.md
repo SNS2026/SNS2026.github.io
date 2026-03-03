@@ -49,5 +49,3 @@ title: International Committees
 * John Tranquada, <i>Brookhaven National Laboratory, USA</i>
 * Yayu Wang, <i>Tsinghua University, China</i>
 * Xingjiang Zhou, <i>IOP, CAS, China</i>
-<!--
--->
