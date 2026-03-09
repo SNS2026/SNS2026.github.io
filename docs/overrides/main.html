@@ -1,4 +1,10 @@
 {% extends "base.html" %}
+
+{% block header %}
+  {{ super() }}
+  <script defer src="https://cloud.umami.is/script.js" data-website-id="d69de777-6ecd-4ffe-8272-a927998b99a4"></script>
+{% endblock %}
+
 {% block announce %}
 <!--
 <div style="background-color: black;">
