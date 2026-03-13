@@ -19,7 +19,7 @@ SNS 2026 will follow a successful series of international conferences in Argonne
     ---
     **March 2, 2026:** Abstract Submission Opens
 
-    **March 15, 2026:** Registration Opens
+    **March 16, 2026:** Registration Opens
     
     **May 31, 2026:** Abstract Submission Closes
     
