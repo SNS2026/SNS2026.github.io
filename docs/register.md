@@ -7,7 +7,7 @@ The conference will take place over **five days** and offers a full program of t
 All presenters **must** register to attend. 
 
 ## :fontawesome-regular-calendar-days: Registration Period
-- **Registration:** March 15, 2026 - August 24, 2026 (11:59 pm MT)
+- **Registration:** March 16, 2026 - August 24, 2026 (11:59 pm MT)
 - **On-site Registration:** August 24, 2026 - August 28, 2026 
 
 Registration will remain open until the conference is full.
