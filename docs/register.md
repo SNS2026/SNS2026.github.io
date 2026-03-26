@@ -44,7 +44,7 @@ We encourage all participants to register early, especially international partic
 === "Register"
 Please click the button below to register.
 
-[Register Now :fontawesome-solid-paper-plane:](#){ .md-button target="_blank"}
+[Register Now :fontawesome-solid-paper-plane:](https://cvent.me/YlLRZ5){ .md-button target="_blank"}
 
 ## Researcher Travel Grants
 Limited financial support for travel will be available upon request. 
