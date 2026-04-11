@@ -9,7 +9,7 @@ We encourage all international participants to register early to allow enough ti
 
 All international meeting registrants will receive a visa invitation letter upon completion of registration.
 
-If you do not receive an email from SNS 2026 about your letter of invitation, please first check your spam folder. If the email is not there, please contact [info@sns2026.org](mailto:info@sns2026.org). Please include "Letter of Invitation" in the subject, along with the following information:
+If you do not receive an email from SNS 2026 about your letter of invitation, please first check your spam folder. If the email is not there, please contact [sns2026@lanl.gov](mailto:sns2026@lanl.gov). Please include "Letter of Invitation" in the subject, along with the following information:
 
     - Your name as it appears on your passport
     - Your affiliation and postal mailing address
