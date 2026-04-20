@@ -1,7 +1,7 @@
 ---
 hide:
   - toc
-title: Venue
+title: Venue & Lodging
 ---
 
 
