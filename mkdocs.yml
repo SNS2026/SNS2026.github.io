@@ -41,10 +41,10 @@ nav:
   - Program: 
     - Schedule: schedule.md
   - Attending: 
-    - Venue: venue.md
+    - 'Venue & Lodging': venue.md
     - Location: location.md
     - Travel: travel.md
-    - Lodging: lodging.md
+#    - Lodging: lodging.md
   - Excursions: excursion.md
   - Contact: contact.md
 
