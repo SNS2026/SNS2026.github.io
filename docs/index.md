@@ -14,22 +14,22 @@ SNS 2026 will follow a successful series of international conferences in Argonne
 ### Confirmed Invited Speakers
 * Brian Andersen, <i>Niels Bohr Institute</i>
 * Dmitri Basov, <i>Columbia University</i>
+* Elena Bascones, <i>ICMM – Madrid</i>
 * Sergey Borisenko, <i>IFW-Dresden</i>
-* Donghui Lu, <i>SLAC National Accelerator Laboratory</i>
-* Tetsuo Hanaguri, <i>RIKEN</i>
-* Jeff Sonier, <i>Simon Fraser University</i>
-* Jane Park, <i>Princeton University</i>
 * Atsushi Fujimori, <i>University of Tokyo</i>
-* Qimiao Si, <i>Rice University</i>
+* Tetsuo Hanaguri, <i>RIKEN</i>
+* Takashi Imai, <i>McMaster University</i>
+* Donghui Lu, <i>SLAC National Accelerator Laboratory</i>
 * Eduardo H. da Silva Neto, <i>Yale University</i>
+* Stevan Nadj-Perge, <i>Caltech</i>
+* Hari Padma, <i>Case Western University</i>
+* Jane Park, <i>Princeton University</i>
+* Pyeongjae Park, <i>Oak Ridge National Laboratory</i>
 * Suchitra Sebastian, <i>Cambridge Univeristy</i>
+* Qimiao Si, <i>Rice University</i>
+* Jeff Sonier, <i>Simon Fraser University</i>
 * Rina Tazai, <i>Kyoto University</i>
 * Huiqiu Yuan, <i>Zhejiang University</i>
-* Hari Padma, <i>Case Western University</i>
-* Takashi Imai, <i>McMaster University</i>
-* Elena Bascones, <i>ICMM – Madrid</i>
-* Pyeongjae Park, <i>Oak Ridge National Laboratory</i>
-* Stevan Nadj-Perge, <i>Caltech</i>
 
 More to be Confirmed…
 
