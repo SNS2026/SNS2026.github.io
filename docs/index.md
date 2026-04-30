@@ -29,6 +29,7 @@ SNS 2026 will follow a successful series of international conferences in Argonne
 * Takashi Imai, <i>McMaster University</i>
 * Elena Bascones, <i>ICMM – Madrid</i>
 * Pyeongjae Park, <i>Oak Ridge National Laboratory</i>
+* Stevan Nadj-Perge, <i>Caltech</i>
 
 More to be Confirmed…
 
