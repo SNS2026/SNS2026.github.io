@@ -11,6 +11,27 @@ template: home.html
 ## August 24-28, 2026, Santa Fe, USA
 SNS 2026 will follow a successful series of international conferences in Argonne (1991), Sendai (1992), Santa Fe (1993), Stanford (1995), Cape Cod (1997), Chicago (2001), Sitges (2004), Sendai (2007), Shanghai (2010), Berkeley (2013), Stuttgart (2016), Tokyo (2019), Bangalore (2022). The meeting will bring leading experts in spectroscopy, transport, materials discovery, and theory will meet to address current key challenges in the frontier of superconductivity research. Highlights to be discussed include cuprates, heavy fermions, iron-based superconductors, nickelates, topological superconductivity, superconductivity in twisted quantum materials, strongly correlated electron theory and approaches. We will also highlight insights from gleaned from new experimental methods and experiments under extreme conditions (low temperature, high magnetic field, high pressure, and high laser field) and perspectives for the discovery and design of new superconductors with higher transition temperatures.
 
+## Invited Speakers
+* Brian Andersen, <i>Niels Bohr Institute</i>
+* Dmitri Basov, <i>Columbia University</i>
+* Sergey Borisenko, <i>IFW-Dresden</i>
+* Donghui Lu, <i>SLAC National Accelerator Laboratory</i>
+* Tetsuo Hanaguri, <i>RIKEN</i>
+* Jeff Sonier, <i>Simon Fraser University</i>
+* Jane Park, <i>Princeton University</i>
+* Atsushi Fujimori, <i>University of Tokyo</i>
+* Qimiao Si, <i>Rice University</i>
+* Eduardo H. da Silva Neto, <i>Yale University</i>
+* Suchitra Sebastian, <i>Cambridge Univeristy</i>
+* Rina Tazai, <i>Kyoto University</i>
+* Huiqiu Yuan, <i>Zhejiang University</i>
+* Hari Padma, <i>Case Western University</i>
+* Takashi Imai, <i>McMaster University</i>
+* Elena Bascones, <i>ICMM – Madrid</i>
+* Pyeongjae Park, <i>Oak Ridge National Laboratory</i>
+
+More to be Confirmed…
+
 
 <div class="grid cards" markdown>
 
