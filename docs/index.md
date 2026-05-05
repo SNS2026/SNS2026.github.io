@@ -16,6 +16,7 @@ SNS 2026 will follow a successful series of international conferences in Argonne
 * Dmitri Basov, <i>Columbia University</i>
 * Elena Bascones, <i>ICMM – Madrid</i>
 * Sergey Borisenko, <i>IFW-Dresden</i>
+* Chunhui Du, <i>Georgia Tech</i>
 * Atsushi Fujimori, <i>University of Tokyo</i>
 * Tetsuo Hanaguri, <i>RIKEN</i>
 * Takashi Imai, <i>McMaster University</i>
