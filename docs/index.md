@@ -29,6 +29,7 @@ SNS 2026 will follow a successful series of international conferences in Argonne
 * Pyeongjae Park, <i>Oak Ridge National Laboratory</i>
 * Suchitra Sebastian, <i>Cambridge Univeristy</i>
 * Qimiao Si, <i>Rice University</i>
+* James L. Smith, <i>Los Alamos National Laboratory</i>
 * Jeff Sonier, <i>Simon Fraser University</i>
 * Rina Tazai, <i>Kyoto University</i>
 * Pavel Volkov, <i>University of Connecticut</i>
