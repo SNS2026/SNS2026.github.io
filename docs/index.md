@@ -23,6 +23,7 @@ SNS 2026 will follow a successful series of international conferences in Argonne
 * Donghui Lu, <i>SLAC National Accelerator Laboratory</i>
 * Eduardo H. da Silva Neto, <i>Yale University</i>
 * Stevan Nadj-Perge, <i>Caltech</i>
+* Chun Ning (Jeanie) Lau, <i>Ohio State University</i>
 * Hari Padma, <i>Case Western University</i>
 * Jane Park, <i>Princeton University</i>
 * Pyeongjae Park, <i>Oak Ridge National Laboratory</i>
@@ -30,6 +31,7 @@ SNS 2026 will follow a successful series of international conferences in Argonne
 * Qimiao Si, <i>Rice University</i>
 * Jeff Sonier, <i>Simon Fraser University</i>
 * Rina Tazai, <i>Kyoto University</i>
+* Pavel Volkov, <i>University of Connecticut</i>
 * Huiqiu Yuan, <i>Zhejiang University</i>
 
 More to be Confirmed…
