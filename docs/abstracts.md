@@ -10,8 +10,8 @@ You can indicate your preferred presentation format (poster and/or talk) during 
 
 ## :fontawesome-regular-calendar-days: Important Dates
 
-- **Abstract Submission:** March 2, 2026 - May 31, 2026 (11:59 pm MT)
-- **Notification of Presentation Type:** June 15, 2026
+- **Abstract Submission:** March 2, 2026 - <s>May 31, 2026</s> <i>extended to</i> June 15, 2026 (11:59 pm MT)
+- **Notification of Presentation Type:** <s>June 15, 2026</s> <i>extended to</i> July 1, 2026 
 - **Program Published:** August 1, 2026
 
 :fontawesome-solid-angle-right: All submitted contributed abstracts will receive a presentation (oral or poster), until the conference is full.
