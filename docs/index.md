@@ -47,7 +47,7 @@ More to be Confirmed…
 
     **March 16, 2026:** Registration Opens
     
-    **May 31, 2026:** Abstract Submission Closes
+    **<s>May 31, 2026</s>** extended to **June 15, 2026** Abstract Submission Closes
     
     **August 24, 2026:** Conference Begins
 
@@ -57,9 +57,9 @@ More to be Confirmed…
 
     ---
 
-    Abstract submission closes on **May 31, 2026**
+    Abstract submission closes on **<s>May 31, 2026</s>** extended to **June 15, 2026**
 
-    Notification of presentation type on **June 15, 2026**
+    Notification of presentation type on **<s>June 15, 2026</s>** extended to **July 1, 2026**
 
     We welcome researchers to contribute to SNS 2026 by submitting an abstract for our scientific Program.
 
