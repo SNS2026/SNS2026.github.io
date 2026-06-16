@@ -26,9 +26,9 @@ We have secured discounted lodging rates for SNS 2026 attendees.
 All participants are encouraged to book their room early as the special room block is limited. 
 
 === "Booking Your Stay"
-Reservations for the special room block rates can be made via the button below: 
+**Please make your reservation by July 24, 2026 to receive our group rate  of $229 per night. You can do this by calling Hilton Hotel in Santa Fe directly at (800)236-3190 and referencing our group code: 90Y or group name: LANL SNS or you can use  the  link below:**
 
-[Book Lodging Now :fontawesome-solid-paper-plane:](){ .md-button target="_blank"}
+[Book Lodging Now :fontawesome-solid-paper-plane:](https://www.hilton.com/en/book/reservation/deeplink/?ctyhocn=SFEHIHF&groupCode=90Y&arrivaldate=2026-08-23&departuredate=2026-08-29&cid=OM,WW,HILTONLINK,EN,DirectLink&fromId=HILTONLINKDIRECT){ .md-button target="_blank"}
 
 
 
