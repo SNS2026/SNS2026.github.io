@@ -12,13 +12,13 @@ template: home.html
 SNS 2026 will follow a successful series of international conferences in Argonne (1991), Sendai (1992), Santa Fe (1993), Stanford (1995), Cape Cod (1997), Chicago (2001), Sitges (2004), Sendai (2007), Shanghai (2010), Berkeley (2013), Stuttgart (2016), Tokyo (2019), Bangalore (2022). The meeting will bring leading experts in spectroscopy, transport, materials discovery, and theory will meet to address current key challenges in the frontier of superconductivity research. Highlights to be discussed include cuprates, heavy fermions, iron-based superconductors, nickelates, topological superconductivity, superconductivity in twisted quantum materials, strongly correlated electron theory and approaches. We will also highlight insights from gleaned from new experimental methods and experiments under extreme conditions (low temperature, high magnetic field, high pressure, and high laser field) and perspectives for the discovery and design of new superconductors with higher transition temperatures.
 
 ### Confirmed Invited Speakers
-* Brian Andersen, <i>Niels Bohr Institute</i>
 * Dmitri Basov, <i>Columbia University</i>
 * Elena Bascones, <i>ICMM – Madrid</i>
 * Sergey Borisenko, <i>IFW-Dresden</i>
 * Chunhui Du, <i>Georgia Tech</i>
 * Atsushi Fujimori, <i>University of Tokyo</i>
 * Tetsuo Hanaguri, <i>RIKEN</i>
+* Matatoshi Imada, <i>University of Tokyo</i>
 * Takashi Imai, <i>McMaster University</i>
 * Donghui Lu, <i>SLAC National Accelerator Laboratory</i>
 * Eduardo H. da Silva Neto, <i>Yale University</i>
@@ -31,7 +31,7 @@ SNS 2026 will follow a successful series of international conferences in Argonne
 * Qimiao Si, <i>Rice University</i>
 * James L. Smith, <i>Los Alamos National Laboratory</i>
 * Jeff Sonier, <i>Simon Fraser University</i>
-* Rina Tazai, <i>Kyoto University</i>
+* Rina Tazai, <i>RIKEN</i>
 * Pavel Volkov, <i>University of Connecticut</i>
 * Huiqiu Yuan, <i>Zhejiang University</i>
 
