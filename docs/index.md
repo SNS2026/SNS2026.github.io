@@ -15,6 +15,7 @@ SNS 2026 will follow a successful series of international conferences in Argonne
 * Dmitri Basov, <i>Columbia University</i>
 * Elena Bascones, <i>ICMM – Madrid</i>
 * Sergey Borisenko, <i>IFW-Dresden</i>
+* Lu Chen, <i>University of Illinois Urbana-Champaign</i>
 * Chunhui Du, <i>Georgia Tech</i>
 * Atsushi Fujimori, <i>University of Tokyo</i>
 * Tetsuo Hanaguri, <i>RIKEN</i>
@@ -22,6 +23,7 @@ SNS 2026 will follow a successful series of international conferences in Argonne
 * Takashi Imai, <i>McMaster University</i>
 * Donghui Lu, <i>SLAC National Accelerator Laboratory</i>
 * Eduardo H. da Silva Neto, <i>Yale University</i>
+* Adriana Moreo, <i>University of Tennessee, Knoxville</i>
 * Stevan Nadj-Perge, <i>Caltech</i>
 * Chun Ning (Jeanie) Lau, <i>Ohio State University</i>
 * Hari Padma, <i>Case Western University</i>
@@ -33,6 +35,7 @@ SNS 2026 will follow a successful series of international conferences in Argonne
 * Jeff Sonier, <i>Simon Fraser University</i>
 * Rina Tazai, <i>RIKEN</i>
 * Pavel Volkov, <i>University of Connecticut</i>
+* Peter Wahl, <i>University of St. Andrews</i>
 * Huiqiu Yuan, <i>Zhejiang University</i>
 
 More to be Confirmed…
