@@ -14,29 +14,35 @@ SNS 2026 will follow a successful series of international conferences in Argonne
 ### Confirmed Invited Speakers
 * Dmitri Basov, <i>Columbia University</i>
 * Elena Bascones, <i>ICMM – Madrid</i>
+* Girsh Blumberg, <i>Rutgers University</i>
 * Sergey Borisenko, <i>IFW-Dresden</i>
+* Stuart Brown, <i>University of California, Los Angeles<i/>
 * Lu Chen, <i>University of Illinois Urbana-Champaign</i>
 * Nicholas Curro, <i>University of California, Davis</i>
 * Chunhui Du, <i>Georgia Tech</i>
 * Atsushi Fujimori, <i>University of Tokyo</i>
 * Tetsuo Hanaguri, <i>RIKEN</i>
 * Neil Harrison, <I>National High Magnetic Field Laboratory: Pulsed Field Facility</i>
+* Russell Hemley, <i>University of Illinois at Chicago<i/>
 * Matatoshi Imada, <i>University of Tokyo</i>
 * Takashi Imai, <i>McMaster University</i>
+* Andreas Kreisel, <i>Uppsala University</i>
 * Donghui Lu, <i>SLAC National Accelerator Laboratory</i>
 * Eduardo H. da Silva Neto, <i>Yale University</i>
 * Adriana Moreo, <i>University of Tennessee, Knoxville</i>
 * Stevan Nadj-Perge, <i>Caltech</i>
 * Hari Padma, <i>Case Western University</i>
 * Pyeongjae Park, <i>Oak Ridge National Laboratory</i>
+* Tuson Park, <i>Sungkyunkwan University<i/>
+* Jedediah H. Pixley, <i>Rutgers University</i>
 * Suchitra Sebastian, <i>Cambridge Univeristy</i>
+* Michael Smidman, <i>Zhejiang University<i/>
 * Qimiao Si, <i>Rice University</i>
 * James L. Smith, <i>Los Alamos National Laboratory</i>
 * Jeff Sonier, <i>Simon Fraser University</i>
 * Rina Tazai, <i>RIKEN</i>
 * Pavel Volkov, <i>University of Connecticut</i>
-
-More to be Confirmed…
+* Stephen Wilson, <i>University of California, Santa Barbara</i>
 
 
 <div class="grid cards" markdown>
