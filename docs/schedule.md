@@ -2546,9 +2546,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     Physics <b>22</b>, 1087–1093 (2026)</span></p>
 	
     <p class=MsoNormal><span style='color:black'>&nbsp;</span></p>
-??? quote "<b><span style='font-size:14.0pt;line-height:115%;
-    color:black'>Elena Bascones, </span></b><i><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Instituto de Ciencia de Materiales de Madrid</span></i>"
+	
+??? quote "<b><span style='font-size:14.0pt;line-height:115%; color:black'>Elena Bascones, </span></b><i><span style='font-size:14.0pt; line-height:115%;color:black'>Instituto de Ciencia de Materiales de Madrid</span></i>"
     <p class=MsoNormal><i><span style='color:black'>Cascades of Heavy and Light
     Electrons in Twisted Bilayer Graphene</span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>The
