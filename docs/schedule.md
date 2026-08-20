@@ -332,8 +332,7 @@ ul
 
 
 === "Monday August 24<sup>th</sup> 2026"
-    <p class=MsoNormal><b><span style='font-size:18.0pt;line-height:115%'>Monday
-    August 24<sup>th</sup> 2026</span></b></p>
+    <!-- <p class=MsoNormal><b><span style='font-size:18.0pt;line-height:115%'>Monday August 24<sup>th</sup> 2026</span></b></p> -->
     <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
     style='border-collapse:collapse;border:none'>
     <tr>
@@ -808,9 +807,9 @@ ul
     </table>
 
 === "Tuesday August 25<sup>th</sup> 2026"
-    <p class=MsoNormal>&nbsp;</p>
+    <!-- <p class=MsoNormal>&nbsp;</p>
     <p class=MsoNormal><b><span style='font-size:18.0pt;line-height:115%'>Tuesday
-    August 25<sup>th</sup> 2026</span></b></p>
+    August 25<sup>th</sup> 2026</span></b></p> -->
     <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
     style='border-collapse:collapse;border:none'>
     <tr>
@@ -1535,8 +1534,8 @@ ul
     <p class=MsoNormal>&nbsp;</p>
     <p class=MsoNormal><b><span style='font-size:18.0pt;line-height:115%'>&nbsp;</span></b></p>
 === "Wednesday August 26<sup>th</sup> 2026"
-    <p class=MsoNormal><b><span style='font-size:18.0pt;line-height:115%'>Wednesday
-    August 26<sup>th</sup> 2026</span></b></p>
+    <!-- <p class=MsoNormal><b><span style='font-size:18.0pt;line-height:115%'>Wednesday
+    August 26<sup>th</sup> 2026</span></b></p> -->
     <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
     style='border-collapse:collapse;border:none'>
     <tr>
@@ -1863,8 +1862,8 @@ ul
     </tr>
     </table>
 === "Thursday August 27<sup>th</sup> 2026"
-    <p class=MsoNormal><b><span style='font-size:18.0pt;line-height:115%'>Thursday August
-    27<sup>th</sup> 2026</span></b></p>
+    <!--  <p class=MsoNormal><b><span style='font-size:18.0pt;line-height:115%'>Thursday August
+    27<sup>th</sup> 2026</span></b></p> -->
     <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
     style='border-collapse:collapse;border:none'>
     <tr>
@@ -2285,8 +2284,8 @@ ul
     </tr>
     </table>
 === "Friday August 28<sup>th</sup> 2026"
-    <p class=MsoNormal><b><span style='font-size:18.0pt;line-height:115%'>Friday August
-    28<sup>th</sup> 2026</span></b></p>
+    <!--  <p class=MsoNormal><b><span style='font-size:18.0pt;line-height:115%'>Friday August
+    28<sup>th</sup> 2026</span></b></p> -->
     <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
     style='border-collapse:collapse;border:none'>
     <tr>
@@ -2515,7 +2514,7 @@ ul
 
 
 
-	
+
     <p class=MsoNormal><b><span style='font-size:18.0pt;line-height:115%;
     color:black'>Abstracts (in alphabetical order)</span></b></p>
     <p class=MsoNormal><b><span style='font-size:14.0pt;line-height:115%;
