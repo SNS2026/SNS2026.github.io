@@ -4574,6 +4574,4 @@ ul
     Bardeen-Cooper-Schrieffer theory and the zero-temperature stiffness ρ0s to be
     linearly proportional to Tc, constraining future theoretical models of
     superconductivity in this system.</span></p>
-    </div>
-    </body>
-    </html>
+
