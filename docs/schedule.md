@@ -2345,7 +2345,7 @@ ul
     <td width=240 valign=top style='width:179.75pt;border-top:none;border-left:
     none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
     padding:0in 5.4pt 0in 5.4pt'>
-    <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><i>Title TBD</i></p>
+    <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><i>Antiferromagnetism, Magnetic Fluctuations and the Superconducting State of Sr<sub>2</sub>RuO<sub>4</sub></i></p>
     </td>
     </tr>
     <tr>
@@ -2679,7 +2679,7 @@ ul
     superconductivity in t-PtBi<sub>2</sub>, arXiv:2509.02178</span></p>
 
 ??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Stuart Brown,</span></b><span style='font-size: 14.0pt;line-height:115%;color:black'> University of California, Los Angeles</span>"
-    <p class=MsoNormal style='text-align:justify'><i><span style='color:black'>TBD</span></i></p>
+    <p class=MsoNormal style='text-align:justify'><i><span style='color:black'>Antiferromagnetism, Magnetic Fluctuations and the Superconducting State of Sr<sub>2</sub>RuO<sub>4</sub></span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>TBD</span></p>
     
 ??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Jefferson Carter, </span></b><i><span style='font-size:14.0pt;line-height:115%;color:black'>University of Wyoming</span></i>"
