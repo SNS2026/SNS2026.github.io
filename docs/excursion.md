@@ -10,6 +10,7 @@ title: Excursion
 
 
 ## :fontawesome-solid-palette: Museum Hill
+Museum Hill is a cultural and artistic center located about two miles southeast of downtown Santa Fe, New Mexico, on Camino Lejo. It features a collection of world-class institutions, scenic outdoor spaces, and sweeping views of the surrounding high desert and mountain foothills. Plan on an afternoon to partake of the art, history, and culture of the Native American Southwest, our Hispano arts past and present, and folk traditions from around the world at Museum of Indian Arts & Culture, Museum of International Folk Art, Wheelwright Museum of the American Indian and Nuevo Mexicano Heritage Arts Museum. The best spot for kids is the Folk Art Museum. There's plenty of parking and great spots to pause outdoors and admire the larger-than-life sculptures on the property. 
 
 ### Getting to Museum Hill
 
