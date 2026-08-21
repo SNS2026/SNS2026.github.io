@@ -26,8 +26,17 @@ SF Trails Transit: [http://www.santafenm.gov/transit](http://www.santafenm.gov/t
 
 
 ## :fontawesome-brands-pagelines: Bandelier National Monument
+Bandelier National Monument protects, preserves, and interprets an outstanding portion of the Pajarito Plateau, including one of the largest concentrations of Ancestral Pueblo archaeological sites in the American Southwest. The park provides opportunities for people to connect with and enjoy a diversity of cultural and natural resources, striking scenery, wildlife habitats, remnants of a volcanic landscape, and wilderness.
 
+We are providing transportation from the conference hotel (Hilton Santa Fe Historic Plaza Downtown) to Bandelier National Monument. The bus will depart from the hotel at 2 pm and return by 6 pm. 
+
+<center>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6481.144239742608!2d-105.9451457229955!3d35.68753632962547!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87185040f211e65d%3A0xc4c188e1b465b272!2sHilton%20Santa%20Fe%20Historic%20Plaza!5e0!3m2!1sen!2sus!4v1776718504666!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</center>
 
 ## :fontawesome-solid-magnet: National High Magnetic Field Laboratory: Pulsed Field Facility
+The National High Magnetic Field Laboratory's Pulsed Field Facility, located at Los Alamos National Laboratory, is the only pulsed magnetic field user facility in the United States. It provides scientists worldwide with access to ultra-high magnetic fields ranging from 50 to 100 tesla and higher for advanced materials and physics research.
+
+We are providing transportation from the conference hotel (Hilton Santa Fe Historic Plaza Downtown) to the NHMFL:PPF. The bus will depart from the hotel at 2 pm and return by 6 pm. 
 
     
