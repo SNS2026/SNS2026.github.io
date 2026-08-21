@@ -2545,8 +2545,6 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     <p class=MsoNormal><span style='color:black'>C.C Au-Yeung <i>et al.</i> Nature
     Physics <b>22</b>, 1087–1093 (2026)</span></p>
 	
-    <p class=MsoNormal><span style='color:black'>&nbsp;</span></p>
-	
 ??? quote "<b><span style='font-size:14.0pt;line-height:115%; color:black'>Elena Bascones, </span></b><i><span style='font-size:14.0pt; line-height:115%;color:black'>Instituto de Ciencia de Materiales de Madrid</span></i>"
     <p class=MsoNormal><i><span style='color:black'>Cascades of Heavy and Light
     Electrons in Twisted Bilayer Graphene</span></i></p>
@@ -2578,10 +2576,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     Datta, E. Bascones, PRB <b>112</b>, L041126 (2025) </span></p>
     <p class=MsoNormal><span style='color:black'>[4] A. Camjayi, M.J. Calderón, E.
     Bascones, <i>in preparation</i>.</span></p>
-    <p class=MsoNormal><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal><b><span style='font-size:14.0pt;line-height:115%;
-    color:black'>Dmitri Basov, </span></b><i><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Columbia University</span></i></p>
+
+??? quote "<b><span style='font-size:14.0pt;line-height:115%; color:black'>Dmitri Basov, </span></b><i><span style='font-size:14.0pt; line-height:115%;color:black'>Columbia University</span></i>"
     <p class=MsoNormal><i><span style='color:black'>Cavity-altered
     Superconductivity</span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>Is it
@@ -2602,13 +2598,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     properties of complex quantum materials.</span></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>Keren <i>et
     al.</i> Nature <b>650</b>, 864–868 (2026)</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Iftakhar Bin Elius, </span></b><i><span
-    style='font-size:14.0pt;line-height:115%;color:black'>Center of Integrated
-    Nanotechnologies</span></i></p>
+    
+??? quote "<b><span style='font-size:14.0pt;line-height:115%;color:black'>Iftakhar Bin Elius, </span></b><i><span style='font-size:14.0pt;line-height:115%;color:black'>Center of Integrated Nanotechnologies</span></i>"
     <p class=MsoNormal><i><span style='color:black'>DT-ARPES: A Software Package
     for Analyzing Time- and Angle Resolved Photoemission Spectroscopy.</span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>Time-
@@ -2631,10 +2622,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     approximations, denoising methods, and error-correction algorithms into a
     unified workflow, enabling faster, more reliable, and reproducible analysis for
     the ARPES and tr-ARPES research communities.</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Girsh Blumberg, </span></b><i><span
-    style='font-size:14.0pt;line-height:115%;color:black'>Rutgers University</span></i></p>
+
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Girsh Blumberg, </span></b><i><span style='font-size:14.0pt;line-height:115%;color:black'>Rutgers University</span></i>"
     <p class=MsoNormal><i><span style='color:black'>Spectroscopy of helical
     Caroli–de Gennes–Matricon states in multiband FeTe<sub>1−x</sub>Se<sub>x</sub>
     superconductor</span></i></p>
@@ -2659,10 +2648,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     by the National Science Foundation (NSF) Grant No. DMR-2105001 and by the
     European Research Council (ERC) under the European Union Horizon 2020 research
     and innovation program Grant Agreement No. 885413.</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Sergey Borisenko, </span></b><i><span
-    style='font-size:14.0pt;line-height:115%;color:black'>IFW-Dresden</span></i></p>
+
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Sergey Borisenko, </span></b><i><span style='font-size:14.0pt;line-height:115%;color:black'>IFW-Dresden</span></i>"
     <p class=MsoNormal><i><span style='color:black'>ARPES Evidence for
     Unconventional Topological Superconductivity in the Fermi Arc States of t-PtBi<sub>2</sub></span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>Topological
@@ -2693,21 +2680,12 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>[5] A.
     Kuibarov <i>et al. </i>Three prerequisites for high-temperature
     superconductivity in t-PtBi<sub>2</sub>, arXiv:2509.02178</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Stuart Brown,</span></b><span style='font-size:
-    14.0pt;line-height:115%;color:black'> University of California, Los Angeles</span></p>
-    <p class=MsoNormal style='text-align:justify'><i><span style='color:black'>Title:
-    TBD</span></i></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>Abstract:
-    TBD</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>&nbsp;</span></b></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Jefferson Carter, </span></b><i><span
-    style='font-size:14.0pt;line-height:115%;color:black'>University of Wyoming</span></i></p>
+
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Stuart Brown,</span></b><span style='font-size: 14.0pt;line-height:115%;color:black'> University of California, Los Angeles</span>"
+    <p class=MsoNormal style='text-align:justify'><i><span style='color:black'>TBD</span></i></p>
+    <p class=MsoNormal style='text-align:justify'><span style='color:black'>TBD</span></p>
+    
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Jefferson Carter, </span></b><i><span style='font-size:14.0pt;line-height:115%;color:black'>University of Wyoming</span></i>"
     <p class=MsoNormal><i><span style='color:black'>Exploration of bulk crystal
     2M-WS<sub>2</sub>, a topological superconductor candidate</span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>In
@@ -2744,12 +2722,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     State University Analytical Resources Core (RRID: SCR_021758) </span></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>National
     Science Foundation - Expand-QISE OMA MPS-2228841.</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Mun Chan, </span></b><i><span style='font-size:
-    14.0pt;line-height:115%;color:black'>National High Magnetic Field Laboratory:
-    Pulsed Field Facility</span></i></p>
+    
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Mun Chan, </span></b><i><span style='font-size: 14.0pt;line-height:115%;color:black'>National High Magnetic Field Laboratory: Pulsed Field Facility</span></i>"
     <p class=MsoNormal><i><span style='color:black'>Observation of the Yamaji
     effect in a cuprate superconductor</span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>The
@@ -2769,10 +2743,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     Chan, M.K., Schreiber, K.A., Ayala-Valenzuela, O.E. <i>et al.</i> Observation
     of the Yamaji effect in a cuprate superconductor. Nat. Phys. <b>21</b>,
     1753–1758 (2025).</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Lu Chen, </span></b><i><span style='font-size:
-    14.0pt;line-height:115%;color:black'>University of Illinois Urbana-Champaign</span></i></p>
+    
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Lu Chen, </span></b><i><span style='font-size: 14.0pt;line-height:115%;color:black'>University of Illinois Urbana-Champaign</span></i>"
     <p class=MsoNormal><i><span style='color:black'>Bulk Superconductivity driven
     by Disorder-Induced Delocalization in 4Hb-Ta(S<sub>1-x</sub>Se<sub>x</sub>)<sub>2</sub></span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>The
@@ -2796,11 +2768,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     used resources of the Advanced Light Source, which is a DOE Oce of Science User
     Facility under contract no. DE-AC02-05CH11231. We thank Chris Jozwiak and Aaron
     Bostwick for stimulating discussions and assistance with beamtime at the ALS.</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Wonjune Choi, </span></b><i><span
-    style='font-size:14.0pt;line-height:115%;color:black'>Los Alamos National
-    Laboratory</span></i></p>
+    
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Wonjune Choi, </span></b><i><span style='font-size:14.0pt;line-height:115%;color:black'>Los Alamos National Laboratory</span></i>"
     <p class=MsoNormal><i><span style='color:black'>Measuring Anyonic Exchange
     Phases Using Two-Dimensional Coherent Spectroscopy</span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>Identifying
@@ -2826,11 +2795,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     U.S. Department of Energy (Contract No. 89233218CNA000001). W.C. also
     gratefully acknowledges the support of the U.S. Department of Energy through
     the LANL/LDRD Program and the Center for Nonlinear Studies for this work.</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Chung-Hou Chung, </span></b><i><span
-    style='font-size:14.0pt;line-height:115%;color:black'>National Yang Ming Chiao
-    Tung University</span></i></p>
+    
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Chung-Hou Chung, </span></b><i><span style='font-size:14.0pt;line-height:115%;color:black'>National Yang Ming Chiao Tung University</span></i>"
     <p class=MsoNormal><i><span style='color:black'>A mechanism for
     quantum-critical Planckian metal phase in high-temperature cuprate
     superconductors</span></i></p>
@@ -2889,10 +2855,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     110-2112-M-A49-018-MY3, the National Center for Theoretical Sciences of Taiwan.
     CHC acknowledges KITP, Aspen Center for Physics where part of the work was
     done.</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Nicholas Curro, </span></b><i><span
-    style='font-size:14.0pt;line-height:115%;color:black'>University of California,
-    Davis</span></i></p>
+	
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Nicholas Curro, </span></b><i><span style='font-size:14.0pt;line-height:115%;color:black'>University of California, Davis</span></i>"
     <p class=MsoNormal><i><span style='color:black'>Measurements of Nematic
     Susceptibility in Iron-based Superconductors via NMR with Dynamic Strain</span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>We
@@ -2922,10 +2886,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     Office of Science, Basic Energy Sciences, Materials Sciences, and Engineering
     Division. Ames National Laboratory is operated for the U.S. Department of
     Energy by Iowa State University under Contract No. DE-AC02-07CH11358.</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Chunhui Du, </span></b><i><span style='font-size:
-    14.0pt;line-height:115%;color:black'>Georgia Institute of Technology</span></i></p>
+    
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Chunhui Du, </span></b><i><span style='font-size: 14.0pt;line-height:115%;color:black'>Georgia Institute of Technology</span></i>"
     <p class=MsoNormal><i><span style='color:black'>Quantum Sensing of
     Superconducting Materials</span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>Recently,
@@ -2962,10 +2924,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     No. FA9550-25-1-0082, U.S. Department of Energy (DOE), Office of Science, Basic
     Energy Sciences (BES), under award No. DE-SC0024870, and Office of Naval
     Research (ONR) under grant No. N00014-23-1-2146.</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Benedikt Fauseweh, </span></b><i><span
-    style='font-size:14.0pt;line-height:115%;color:black'>TU Dortmund University</span></i></p>
+    
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Benedikt Fauseweh, </span></b><i><span style='font-size:14.0pt;line-height:115%;color:black'>TU Dortmund University</span></i>"
     <p class=MsoNormal><i><span style='color:black'>Collective excitations and
     long-range interactions in superconductors</span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>In this
@@ -3007,11 +2967,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     00.025.2025.This project was made possible by the DLR Quantum Computing
     Initiative and the Federal Ministry for Economic Affairs and Climate Action;
     qci.dlr.de/projects/ALQU.</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Atsushi Fujimori, </span></b><i><span
-    style='font-size:14.0pt;line-height:115%;color:black'>National Tsing Hua
-    University</span></i></p>
+    
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Atsushi Fujimori, </span></b><i><span style='font-size:14.0pt;line-height:115%;color:black'>National Tsing Hua University</span></i>"
     <p class=MsoNormal><i><span style='color:black'>Nodal metal versus hole pockets
     and interlayer coupling in multilayer cuprates</span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>In
@@ -3053,10 +3010,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     work has been done in collaboration with S. Ideta, T. Watanabe, T. Fujii, T. K.
     Lee, C. Y. Mou, T. Yoshida, S. Uchida, S. Ishida, M. Arita, K. Tanaka, T. P.
     Devereaux, W. O. Wang, and B. Moritz.</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Xueshi Gao, </span></b><i><span style='font-size:
-    14.0pt;line-height:115%;color:black'>The Ohio State University</span></i></p>
+    
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Xueshi Gao, </span></b><i><span style='font-size: 14.0pt;line-height:115%;color:black'>The Ohio State University</span></i>"
     <p class=MsoNormal><i><span style='color:black'>Tuning electronic interaction
     in superconducting twisted multilayer graphene family</span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>The
@@ -3068,11 +3023,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     interaction level. In this work, we study the effect of ε-tuning on twisted
     multilayer graphene. Latest experimental results will be discussed and compared
     to various theoretical models.</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>&nbsp;</span></b></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>David Haink, </span></b><i><span
-    style='font-size:14.0pt;line-height:115%;color:black'>DLR e.V.</span></i></p>
+    
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>David Haink, </span></b><i><span style='font-size:14.0pt;line-height:115%;color:black'>DLR e.V.</span></i>"
     <p class=MsoNormal><i><span style='color:black'>Real space properties of a
     topological long-range p<sub>x</sub>+ip<sub>y</sub>-wave superconductor</span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>Topological
@@ -3101,11 +3053,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>[3]
     Haink, D., Buchheit, A.A. and Fauseweh, B. Non-local edge mode hybridization in
     the long-range interacting Kitaev chain. arXiv preprint arXiv:2509.26447</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>&nbsp;</span></b></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Tetsuo Hanaguri, </span></b><i><span
-    style='font-size:14.0pt;line-height:115%;color:black'>RIKEN</span></i></p>
+    
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Tetsuo Hanaguri, </span></b><i><span style='font-size:14.0pt;line-height:115%;color:black'>RIKEN</span></i>"
     <p class=MsoNormal><i><span style='color:black'>Twist Engineering of the
     Superconducting Gap in NbSe<sub>2</sub> Monolayers on Graphene</span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>When
@@ -3124,16 +3073,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     exploration of twist-controlled quantum states.</span></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>This
     work was supported by KAKENHI Grants No. 24H00198 and No. 25H01249.</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>&nbsp;</span></b></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>&nbsp;</span></b></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>&nbsp;</span></b></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Russell Hemley, </span></b><i><span
-    style='font-size:14.0pt;line-height:115%;color:black'>University of Illinois
-    Chicago</span></i></p>
+    
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Russell Hemley, </span></b><i><span style='font-size:14.0pt;line-height:115%;color:black'>University of Illinois Chicago</span></i>"
     <p class=MsoNormal><i><span style='color:black'>Progress in High Tc
     Superconductivity Under Pressure</span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>Efforts
@@ -3167,10 +3108,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     supported by This work was supported by the DOE-NNSA (DE-NA0004153, CDAC), NSF
     (DMR-2104881), DOE-SC (DE-SC0020340 and DE-AC02-06CH11357). This work is a
     contribution from the George W. Crabtree Institute for Discovery.</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Eduardo H. da Silva Neto, </span></b><i><span
-    style='font-size:14.0pt;line-height:115%;color:black'>Yale University</span></i></p>
+    
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Eduardo H. da Silva Neto, </span></b><i><span style='font-size:14.0pt;line-height:115%;color:black'>Yale University</span></i>"
     <p class=MsoNormal><i><span style='color:black'>Pairing mediated by nematic
     fluctuations in an iron-based superconductor</span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>Electronic
@@ -3198,11 +3137,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     theoretical predictions for superconductivity mediated by nematic fluctuations.</span></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>Nag <i>et
     al.</i> Nature Physics <b>21</b>, 89–96 (2025)</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Suguru Hosoi, </span></b><i><span
-    style='font-size:14.0pt;line-height:115%;color:black'>Los Alamos National
-    Laboratory</span></i></p>
+    
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Suguru Hosoi, </span></b><i><span style='font-size:14.0pt;line-height:115%;color:black'>Los Alamos National Laboratory</span></i>"
     <p class=MsoNormal><i><span style='color:black'>Pseudo Point Nodes in Spin
     Triplet superconductor UTe<sub>2</sub></span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>UTe₂
@@ -3231,11 +3167,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     Sciences, Division of Materials Science and Engineering project “Quantum
     Fluctuations in Narrow-band Systems”. S.H. acknowledges the Directors's
     Postdoctoral Fellowship through the LDRD program at LANL.</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Masatoshi Imada, </span></b><i><span
-    style='font-size:14.0pt;line-height:115%;color:black'>Sophia University /
-    University of Tokyo</span></i></p>
+    
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Masatoshi Imada, </span></b><i><span style='font-size:14.0pt;line-height:115%;color:black'>Sophia University / University of Tokyo</span></i>"
     <p class=MsoNormal><i><span style='color:black'>Cuprate Superconductors – View
     from AI Aided ab initio Studies and Integrated Spectroscopy Analysis</span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>Recently
@@ -3306,10 +3239,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     numerical computations were performed on computers at the supercomputer Fugaku
     provided by the RIKEN Center for Computational Science and the Supercomputer Center,
     Institute for Solid State Physics, University of Tokyo.</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Takashi Imai, </span></b><i><span
-    style='font-size:14.0pt;line-height:115%;color:black'>McMaster University</span></i></p>
+    
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Takashi Imai, </span></b><i><span style='font-size:14.0pt;line-height:115%;color:black'>McMaster University</span></i>"
     <p class=MsoNormal><i><span style='color:black'>Quantum Critical Spin
     Excitations in LSCO High Tc Cuprates</span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>Enhanced
@@ -3333,10 +3264,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     Wang et al., Nature Physics <b>17</b> (10), 1109–1113 (2021); also see W. Yuan
     et al., npj Quantum Mate-rials <b>7</b> (1), 120 (2022) for the 2D-ILT
     techniques.</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Andreas Kreisel, </span></b><i><span
-    style='font-size:14.0pt;line-height:115%;color:black'>Uppsala Universitet</span></i></p>
+    
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Andreas Kreisel, </span></b><i><span style='font-size:14.0pt;line-height:115%;color:black'>Uppsala Universitet</span></i>"
     <p class=MsoNormal><i><span style='color:black'>D-vector spectroscopy in
     triplet superconductors</span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>The
@@ -3382,11 +3311,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>A.K.
     acknowledges support by the Danish National Committee for Research
     Infrastructure (NUFI) through the ESS-Lighthouse Q-MAT.</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Elizabeth Krenkel, </span></b><i><span
-    style='font-size:14.0pt;line-height:115%;color:black'>Los Alamos National
-    Laboratory</span></i></p>
+    
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Elizabeth Krenkel, </span></b><i><span style='font-size:14.0pt;line-height:115%;color:black'>Los Alamos National Laboratory</span></i>"
     <p class=MsoNormal><i><span style='color:black'>Oxygen Intercalation and Phase
     Transition in Sr-substituted 214 Ruddledsen-Popper Nickelates</span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>Thin
@@ -3416,10 +3342,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     Energy, Office of Science. Los Alamos National Laboratory, an affirmative
     action equal opportunity employer, is managed by Triad National Security, LLC
     for the U.S. Department of Energy’s NNSA, under contract 89233218CNA000001.</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Inho Lee, </span></b><i><span style='font-size:
-    14.0pt;line-height:115%;color:black'>Los Alamos National Laboratory</span></i></p>
+    
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Inho Lee, </span></b><i><span style='font-size: 14.0pt;line-height:115%;color:black'>Los Alamos National Laboratory</span></i>"
     <p class=MsoNormal><i><span style='color:black'>Tunable Anisotropy of
     High-Harmonic Generation in NbOI<sub>2</sub></span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>High
@@ -3444,10 +3368,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>This
     work was supported by the U.S. DOE NNSA under Cont. No. 89233218CNA000001
     through the LANL LDRD Program and the CINT, a DOE BES user facility.</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Jiarui Li, </span></b><i><span style='font-size:
-    14.0pt;line-height:115%;color:black'>Stanford University</span></i></p>
+    
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Jiarui Li, </span></b><i><span style='font-size: 14.0pt;line-height:115%;color:black'>Stanford University</span></i>"
     <p class=MsoNormal><i><span style='color:black'>Superconductivity and spin
     density wave order in bilayer nickelate</span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>The
@@ -3494,11 +3416,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     Sherlock cluster at Stanford University, and on resources of the National
     Energy Research Scientific Computing Center (NERSC), a Department of Energy
     Office of Science User Facility, using NERSC award BES-ERCAP0031424.</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Andrew Li, </span></b><i><span style='font-size:
-    14.0pt;line-height:115%;color:black'>University of Michigan, Ann Arbor</span></i></p>
+    
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Andrew Li, </span></b><i><span style='font-size: 14.0pt;line-height:115%;color:black'>University of Michigan, Ann Arbor</span></i>"
     <p class=MsoNormal><i><span style='color:black'>Agentic Workflow for Many-Body
     Bandgap Optimization</span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>Due to
@@ -3518,10 +3437,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     Zhang <i>et al</i>, arXiv:2510.22831</span></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>[3]
     Zhang <i>et al</i>, arXiv:2606.07323</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Donghui Lu, </span></b><i><span style='font-size:
-    14.0pt;line-height:115%;color:black'>SLAC National Accelerator Laboratory</span></i></p>
+    
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Donghui Lu, </span></b><i><span style='font-size: 14.0pt;line-height:115%;color:black'>SLAC National Accelerator Laboratory</span></i>"
     <p class=MsoNormal><i><span style='color:black'>Electronic structure of
     compressively strained bilayer nickelate thin film</span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>The
@@ -3557,11 +3474,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     Energy, Office of Science, Basic Energy Sciences under Award no. DE-SC0019330.
     Computations were done using the utilities of the University of Florida
     Research Computing.</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Ayanesh Maiti, </span></b><i><span
-    style='font-size:14.0pt;line-height:115%;color:black'>Max Planck Institute for
-    Chemical Physics of Solids</span></i></p>
+    
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Ayanesh Maiti, </span></b><i><span style='font-size:14.0pt;line-height:115%;color:black'>Max Planck Institute for Chemical Physics of Solids</span></i>"
     <p class=MsoNormal><i><span style='color:black'>Enhanced specific heat anomaly
     in clean overdoped Tl2201</span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>The
@@ -3601,10 +3515,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     M. Wade <i>et al.</i>, Journal of Superconductivity <b>7.1</b>, 261 (1994).</span></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>[7] A.
     Carrington <i>et al.</i>, Physical Review B <b>54</b>, R3788 (1996).</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Ludi Miao, </span></b><i><span style='font-size:
-    14.0pt;line-height:115%;color:black'>New Mexico State University</span></i></p>
+    
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Ludi Miao, </span></b><i><span style='font-size: 14.0pt;line-height:115%;color:black'>New Mexico State University</span></i>"
     <p class=MsoNormal><i><span style='color:black'>Field-Robust Two-Dimensional
     Superconductivity in Ultrathin Sr₂RuO₄ Heterostructures</span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>Sr₂RuO₄
@@ -3627,15 +3539,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     two-dimensional superconductivity in Sr₂RuO₄ at the Cooper-pair length scale
     and provide new opportunities for exploring the pairing symmetry and
     interfacial physics of this unconventional superconductor.</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Ghulam Mohmad, </span></b><i><span
-    style='font-size:14.0pt;line-height:115%;color:black'>Indian Institute of
-    Science Education and Research (IISER) Mohali</span></i></p>
+    
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Ghulam Mohmad, </span></b><i><span style='font-size:14.0pt;line-height:115%;color:black'>Indian Institute of Science Education and Research (IISER) Mohali</span></i>"
     <p class=MsoNormal><i><span style='color:black'>Role of Local Strain Field in
     Tip-induced Superconductivity</span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>A
@@ -3670,11 +3575,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     Senior Research Fellowship (SRF). G.S. acknowledges financial assistance from
     the Science and Engineering Research Board (SERB), Govt. of India (grant
     number: CRG/2021/006395).</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Mohd Monish, </span></b><i><span
-    style='font-size:14.0pt;line-height:115%;color:black'>Indian institute of
-    science education and research (IISER) Mohali</span></i></p>
+    
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Mohd Monish, </span></b><i><span style='font-size:14.0pt;line-height:115%;color:black'>Indian institute of science education and research (IISER) Mohali</span></i>"
     <p class=MsoNormal><i><span style='color:black'>High Tc conventional
     superconductivity in cerium point contacts</span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>one of
@@ -3716,11 +3618,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     09/947(0227)/2019-EMR-I). G.S. acknowledges financial assistance from Science
     and Engineering Research Board (SERB), Govt. of India (Grant No.
     CRG/2021/006395).</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Adriana Moreo, </span></b><i><span
-    style='font-size:14.0pt;line-height:115%;color:black'>University of Tennessee /
-    Oak Ridge National Laboratory</span></i></p>
+    
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Adriana Moreo, </span></b><i><span style='font-size:14.0pt;line-height:115%;color:black'>University of Tennessee / Oak Ridge National Laboratory</span></i>"
     <p class=MsoNormal><i><span style='color:black'>Theoretical and Computational
     Overview of High Tc superconductivity in nickelates</span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>The
@@ -3804,11 +3703,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     Energy Sciences, Materials Sciences and Engineering Division. This paper was
     authored by UT Battelle, LLC, under Contract No.DE-AC05-00OR22725 with the U.S.
     Department of Energy (DOE).</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Philip Murgatroyd, </span></b><i><span
-    style='font-size:14.0pt;line-height:115%;color:black'>Los Alamos National
-    Laboratory</span></i></p>
+    
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Philip Murgatroyd, </span></b><i><span style='font-size:14.0pt;line-height:115%;color:black'>Los Alamos National Laboratory</span></i>"
     <p class=MsoNormal><i><span style='color:black'>Termination-dependent charge
     transfer enhances the Kondo coupling strength in CeCoIn<sub>5</sub></span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>The
@@ -3826,10 +3722,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     fermion compound. These results establish a new route for visualizing and
     manipulating the Kondo interaction in quasi-two-dimensional heavy-fermion
     systems.</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Muntaser Naamneh, </span></b><i><span
-    style='font-size:14.0pt;line-height:115%;color:black'>Ben Gurion University</span></i></p>
+    
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Muntaser Naamneh, </span></b><i><span style='font-size:14.0pt;line-height:115%;color:black'>Ben Gurion University</span></i>"
     <p class=MsoNormal><i><span style='color:black'>Universal Four-Fold Symmetry in
     Infinite-Layer Nickelates</span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>The
@@ -3853,11 +3747,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     the influence of an underlying antiferromagnetic order, providing a unified
     framework for the electronic ground state throughout the nickelate phase
     diagram.</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>&nbsp;</span></b></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Stevan Nadg-Perge, </span></b><i><span
-    style='font-size:14.0pt;line-height:115%;color:black'>Caltech</span></i></p>
+    
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Stevan Nadg-Perge, </span></b><i><span style='font-size:14.0pt;line-height:115%;color:black'>Caltech</span></i>"
     <p class=MsoNormal style='text-align:justify'><i><span style='color:black'>Resolving
     spectral gaps and many-body resonances in superconducting twisted trilayer
     graphene</span></i></p>
@@ -3878,11 +3769,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     suggest that the outer gap originates from the splitting of the many-body
     Kondo-like resonance due to the breaking of the valley symmetry. Our results
     suggest an intricate hierarchy of correlated phases in MATTG.</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>&nbsp;</span></b></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Hari Padma, </span></b><i><span style='font-size:
-    14.0pt;line-height:115%;color:black'>Case Western Reserve University</span></i></p>
+    
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Hari Padma, </span></b><i><span style='font-size: 14.0pt;line-height:115%;color:black'>Case Western Reserve University</span></i>"
     <p class=MsoNormal><i><span style='color:black'>Electronic metastability in a
     driven cuprate ladder</span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>Driving
@@ -3917,11 +3805,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     experimental research leading to these results was primarily supported by the
     U.S. Department of Energy, Office of Basic Energy Sciences, Early Career Award
     Program, under Award No. DE-SC0022883.</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Pyeongjae Park, </span></b><i><span
-    style='font-size:14.0pt;line-height:115%;color:black'>Oak Ridge National
-    Laboratory</span></i></p>
+    
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Pyeongjae Park, </span></b><i><span style='font-size:14.0pt;line-height:115%;color:black'>Oak Ridge National Laboratory</span></i>"
     <p class=MsoNormal><i><span style='color:black'>Spin dynamics and
     superconductivity in CeCoIn<sub>5</sub> from high-resolution inelastic neutron
     scattering</span></i></p>
@@ -3948,10 +3833,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>This
     work was supported by the U.S. Department of Energy, Office of Science, Basic
     Energy Sciences, Materials Sciences and Engineering Division.</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Tuson Park, </span></b><i><span style='font-size:
-    14.0pt;line-height:115%;color:black'>Sungkyunkwan University</span></i></p>
+    
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Tuson Park, </span></b><i><span style='font-size: 14.0pt;line-height:115%;color:black'>Sungkyunkwan University</span></i>"
     <p class=MsoNormal><i><span style='color:black'>Spectroscopic Study of
     Pseudogap in Ce-based Heavy Fermion Superconductors</span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>The
@@ -3977,18 +3860,14 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     study was supported by the National Research Foundation (NRF) of Korea through
     a grant funded by the Korean Ministry of Science and ICT (Grant Nos.
     RS-2023-00220471, RS-2026-25479379)</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Jedediah Pixley,</span></b><span
-    style='font-size:14.0pt;line-height:115%;color:black'> Rutgers University</span></p>
+    
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Jedediah Pixley,</span></b><span style='font-size:14.0pt;line-height:115%;color:black'> Rutgers University</span>"
     <p class=MsoNormal style='text-align:justify'><i><span style='color:black'>Twisted
     Nodal Superconductors</span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>Abstract:
     TBD</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Km Rubi, </span></b><i><span style='font-size:
-    14.0pt;line-height:115%;color:black'>Los Alamos National Laboratory</span></i></p>
+	
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Km Rubi, </span></b><i><span style='font-size: 14.0pt;line-height:115%;color:black'>Los Alamos National Laboratory</span></i>"
     <p class=MsoNormal><i><span style='color:black'>High field re-entrant
     superconductivity in infinite-layer nickelates</span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>Magnetic
@@ -4027,19 +3906,12 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     Fund (AcRF), Grants No. MOE-T2EP50123-0013 and MOE-T2EP50124-0003, the SUSTech-NUS
     Joint Research Program, and by the MOE Tier-3 Grant (MOE-MOET32023-0003)
     ‘Quantum Geometric Advantage’.</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>&nbsp;</span></b></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Suchitra Sebastian,</span></b><span
-    style='font-size:14.0pt;line-height:115%;color:black'> <i>Cambridge University</i></span></p>
-    <p class=MsoNormal style='text-align:justify'><i><span style='color:black'>Title:
-    TBD</span></i></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>Abstract:
-    TBD</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Qimiao Si, </span></b><i><span style='font-size:
-    14.0pt;line-height:115%;color:black'>Rice University</span></i></p>
+    
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Suchitra Sebastian,</span></b><span style='font-size:14.0pt;line-height:115%;color:black'> <i>Cambridge University</i></span>"
+    <p class=MsoNormal style='text-align:justify'><i><span style='color:black'>TBD</span></i></p>
+    <p class=MsoNormal style='text-align:justify'><span style='color:black'>TBD</span></p>
+    
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Qimiao Si, </span></b><i><span style='font-size: 14.0pt;line-height:115%;color:black'>Rice University</span></i>"
     <p class=MsoNormal><i><span style='color:black'>Orbital-selective
     superconductivity: from Ruddlesden–Popper nickelates to twisted WSe<sub>2</sub></span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>The
@@ -4080,11 +3952,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>Supported
     by Department of Energy, Office of Science, Basic Energy Sciences, under Award
     No. DE-SC0018197</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Wolfgang Simeth, </span></b><i><span
-    style='font-size:14.0pt;line-height:115%;color:black'>Los Alamos National
-    Laboratory</span></i></p>
+    
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Wolfgang Simeth, </span></b><i><span style='font-size:14.0pt;line-height:115%;color:black'>Los Alamos National Laboratory</span></i></p>
     <p class=MsoNormal><i><span style='color:black'>Neutron spectroscopy on the
     heavy-fermion superconductor CePd<sub>2</sub>Si<sub>2</sub></span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>Low-energy
@@ -4111,9 +3980,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>[4] A.
     Scheie, et al., Excess heat capacity in magnetically ordered Ce heavy-fermion
     metals, Phys. Rev. B <b>110</b>, 085123 (2024).</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Michael Smidman, </span></b><i><span
-    style='font-size:14.0pt;line-height:115%;color:black'>Zhejiang University</span></i></p>
+	
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Michael Smidman, </span></b><i><span style='font-size:14.0pt;line-height:115%;color:black'>Zhejiang University</span></i>"
     <p class=MsoNormal><i><span style='color:black'>Interplay of ferromagnetism and
     superconductivity in Ce-based heavy fermions</span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>Although
@@ -4152,13 +4020,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     Y. Wu <i>et al.</i> Phys. Rev. B <b>113</b>, 134431 (2026)</span></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>[5] Z.
     Y. Shan <i>et al.</i> Phys. Rev. Lett. <b>134</b>, 116704 (2025)</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Jeff Sonier, </span></b><i><span
-    style='font-size:14.0pt;line-height:115%;color:black'>Simon Fraser University</span></i></p>
+    
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Jeff Sonier, </span></b><i><span style='font-size:14.0pt;line-height:115%;color:black'>Simon Fraser University</span></i>"
     <p class=MsoNormal><span style='color:black'>Muon spin rotation studies of the
     influence of chemical doping and hydrostatic pressure on UTe<sub>2</sub></span></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>The
@@ -4201,11 +4064,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     Materials Science and Engineering, the Swiss National Science Foundation, the
     Henry Royce Institute for Advanced Materials, and the program of Czech Research
     Infrastructures.</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Rina Tazai, </span></b><i><span style='font-size:
-    14.0pt;line-height:115%;color:black'>RIKEN</span></i></p>
+    
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Rina Tazai, </span></b><i><span style='font-size: 14.0pt;line-height:115%;color:black'>RIKEN</span></i>"
     <p class=MsoNormal><i><span style='color:black'>Loop-Current-Induced Nematic
     and Chiral Superconductivity in Kagome Metals</span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>Kagome
@@ -4229,11 +4089,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     2508.04433</span></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>JSPS
     KAKENHI Grant-in-Aid for Transformative Research Areas (A) (Grant No. 25H01248)</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Caitlin Tempelman, </span></b><i><span
-    style='font-size:14.0pt;line-height:115%;color:black'>Los Alamos National
-    Laboratory</span></i></p>
+    
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Caitlin Tempelman, </span></b><i><span style='font-size:14.0pt;line-height:115%;color:black'>Los Alamos National Laboratory</span></i>"
     <p class=MsoNormal><i><span style='color:black'>Nonmagnon excitations in van
     der Waals beta-UTe<sub>3</sub></span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>Van der
@@ -4255,11 +4112,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>CST
     gratefully acknowledge the support of the U.S. Department of Energy through the
     LANL/LDRD Program and the G. T. Seaborg Institute for this work.</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Nathan Valadez, </span></b><i><span
-    style='font-size:14.0pt;line-height:115%;color:black'>Center of Integrated
-    Nanotechnologies / University of Central Florida</span></i></p>
+    
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Nathan Valadez, </span></b><i><span style='font-size:14.0pt;line-height:115%;color:black'>Center of Integrated Nanotechnologies / University of Central Florida</span></i>"
     <p class=MsoNormal><span style='color:black'>High-Resolution Time- and
     Angle-Resolved Photoemission Spectroscopy Capability at CINT User Facility</span></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>Time-
@@ -4290,16 +4144,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     (MSIPP): PARTNERS, Betsy Snell, National Science Foundation (NSF) CAREER Award
     No. DMR-1847962, and the NSF Partnerships for Research and Education in
     Materials (PREM) Grant No. DMR-2424976.</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>&nbsp;</span></b></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>&nbsp;</span></b></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>&nbsp;</span></b></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Pedro Vianez, </span></b><i><span
-    style='font-size:14.0pt;line-height:115%;color:black'>Los Alamos National
-    Laboratory</span></i></p>
+    
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Pedro Vianez, </span></b><i><span style='font-size:14.0pt;line-height:115%;color:black'>Los Alamos National Laboratory</span></i>"
     <p class=MsoNormal><i><span style='color:black'>Conventional superconductivity
     in heavy fermion superconductor PrOs<sub>4</sub>Sb<sub>12</sub></span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>Unconventional
@@ -4329,11 +4175,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     (LDRD) Program and was performed, in part, at the Center for Integrated
     Nanotechnologies, an Office of Science User Facility operated for the DOE
     Office of Science, under user Proposals No. 2018BU0010 and No. 2018BU0083.</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>&nbsp;</span></b></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Pavel Volkov, </span></b><i><span
-    style='font-size:14.0pt;line-height:115%;color:black'>University of Connecticut</span></i></p>
+    
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Pavel Volkov, </span></b><i><span style='font-size:14.0pt;line-height:115%;color:black'>University of Connecticut</span></i>"
     <p class=MsoNormal><i><span style='color:black'>Probing unconventional
     superconductors and inducing topology with twist</span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>I will
@@ -4361,10 +4204,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     Tang, P. A. Volkov, Phys. Rev. B <b>113</b>, 014513, arXiv:2512.13388</span></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>[5] J.
     Tang, P. A. Volkov, Phys. Rev. B <b>113</b>, 014513 (2026)</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Jingyuan Wang, </span></b><i><span
-    style='font-size:14.0pt;line-height:115%;color:black'>Johns Hopkins University</span></i></p>
+    
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Jingyuan Wang, </span></b><i><span style='font-size:14.0pt;line-height:115%;color:black'>Johns Hopkins University</span></i>"
     <p class=MsoNormal><i><span style='color:black'>Reconciling strange metal
     transport in CeCoIn<sub>5</sub> through the difference of effective masses</span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>The
@@ -4403,11 +4244,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     Energy Sciences &quot;Science of 100T&quot; program.  The National High
     Magnetic Field Lab is supported by the NSF under grant DMR-2128556, the State
     of Florida, and the US DOE.</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Stephen Wilson, </span></b><i><span
-    style='font-size:14.0pt;line-height:115%;color:black'>University of California,
-    Santa Barbara</span></i></p>
+    
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Stephen Wilson, </span></b><i><span style='font-size:14.0pt;line-height:115%;color:black'>University of California, Santa Barbara</span></i>"
     <p class=MsoNormal><i><span style='color:black'>Kagome metals as platforms for
     unconventional superconductivity</span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>Kagome
@@ -4421,11 +4259,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>Support
     provided via the UC Santa Barbara NSF Quantum Foundry funded via the Q-AMASE-i
     program under award DMR-1906325</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>&nbsp;</span></b></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Xinze Yang, </span></b><i><span style='font-size:
-    14.0pt;line-height:115%;color:black'>Yale University</span></i></p>
+    
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Xinze Yang, </span></b><i><span style='font-size: 14.0pt;line-height:115%;color:black'>Yale University</span></i>"
     <p class=MsoNormal><i><span style='color:black'>Quasiparticle Interference of
     Superconductivity and Sublattice Texture in CsV<sub>3</sub>Sb<sub>5</sub></span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>Probing
@@ -4482,11 +4317,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     the Würzburg-Dresden Cluster of Excellence on Complexity, Topology and Dynamics
     in Quantum Matter—ctd.qmat (EXC 2147, Project No. 390858490), and
     QUAST-FOR5249-449872909.</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>&nbsp;</span></b></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Wooin Yang, </span></b><i><span style='font-size:
-    14.0pt;line-height:115%;color:black'>University of Tennessee, Knoxville</span></i></p>
+    
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Wooin Yang, </span></b><i><span style='font-size: 14.0pt;line-height:115%;color:black'>University of Tennessee, Knoxville</span></i>"
     <p class=MsoNormal><i><span style='color:black'>Revealing chiral d-wave pairing
     symmetry in Sn/Si(111) with tunneling Andreev reflection</span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>A
@@ -4510,10 +4342,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     symmetry. Our results demonstrate that tunneling Andreev reflection
     spectroscopy can serve as a local probe of the superconducting order parameter
     for identifying chiral superconductivity.</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Ruiqi Zhang, </span></b><i><span
-    style='font-size:14.0pt;line-height:115%;color:black'>Tulane University</span></i></p>
+    
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Ruiqi Zhang, </span></b><i><span style='font-size:14.0pt;line-height:115%;color:black'>Tulane University</span></i>"
     <p class=MsoNormal><i><span style='color:black'>Magnetism-Enhanced
     Electron–Phonon Coupling in Cuprate and Nickelate Superconductors</span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>Unconventional
@@ -4554,11 +4384,8 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     Zhang, <i>et al.</i> Phys. Rev. B <b>112</b>, L241115, (2025)</span></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>4. Y.
     Wang, <i>et al.</i>, arXiv:2502.21438, (2026)</span></p>
-    <p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-    <p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
-    line-height:115%;color:black'>Ruoxi Zhang, </span></b><i><span
-    style='font-size:14.0pt;line-height:115%;color:black'>University of California,
-    Santa Barbara</span></i></p>
+    
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Ruoxi Zhang, </span></b><i><span style='font-size:14.0pt;line-height:115%;color:black'>University of California, Santa Barbara</span></i>"
     <p class=MsoNormal><i><span style='color:black'>Imaging the Meissner effect and
     local superfluid stiffness in a graphene superconductor</span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>We
