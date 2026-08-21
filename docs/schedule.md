@@ -3953,7 +3953,7 @@ color:black'>Abstracts (in alphabetical order)</span></b></p>
     by Department of Energy, Office of Science, Basic Energy Sciences, under Award
     No. DE-SC0018197</span></p>
     
-??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Wolfgang Simeth, </span></b><i><span style='font-size:14.0pt;line-height:115%;color:black'>Los Alamos National Laboratory</span></i></p>
+??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Wolfgang Simeth, </span></b><i><span style='font-size:14.0pt;line-height:115%;color:black'>Los Alamos National Laboratory</span></i>"
     <p class=MsoNormal><i><span style='color:black'>Neutron spectroscopy on the
     heavy-fermion superconductor CePd<sub>2</sub>Si<sub>2</sub></span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>Low-energy
