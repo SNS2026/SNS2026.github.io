@@ -14,8 +14,9 @@ title: Excursion
 ### Getting to Museum Hill
 
 [Google Maps](https://www.google.com/maps/search/museum+hill+santa+fe/@35.6638034,-105.9294873,17z/data=!3m1!4b1?)
-Rail Runner: [https://www.riometro.org/](https://www.riometro.org/)
+
 SF Pick-Up: [https://www.santafenm.gov/santa_fe_pickup_shuttle](https://www.santafenm.gov/santa_fe_pickup_shuttle)
+
 SF Trails Transit: [http://www.santafenm.gov/transit](http://www.santafenm.gov/transit)
 
 <center>
