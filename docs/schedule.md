@@ -2,6 +2,8 @@
 title: Conference Schedule
 ---
 
+A pdf version of the program can be downloaded via this [link](../assets/files/SNS_2026_Program_Booklet.pdf).
+
 ## Program Overview
 <p align="center">
   <img src="../assets/images/Program_Overview.png" />
