@@ -761,7 +761,7 @@ ul
     <td width=240 valign=top style='width:2.5in;border-top:none;border-left:none;
     border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
     padding:0in 5.4pt 0in 5.4pt'>
-    <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><i>Title TBD</i></p>
+    <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><i>Cuprate Superconductivity Under Extreme Conditions</i></p>
     </td>
     </tr>
     <tr>
@@ -3905,7 +3905,7 @@ ul
     ‘Quantum Geometric Advantage’.</span></p>
     
 ??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Suchitra Sebastian,</span></b><span style='font-size:14.0pt;line-height:115%;color:black'> <i>Cambridge University</i></span>"
-    <p class=MsoNormal style='text-align:justify'><i><span style='color:black'>TBD</span></i></p>
+    <p class=MsoNormal style='text-align:justify'><i><span style='color:black'>Cuprate Superconductivity Under Extreme Conditions</span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>TBD</span></p>
     
 ??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Qimiao Si, </span></b><i><span style='font-size: 14.0pt;line-height:115%;color:black'>Rice University</span></i>"
