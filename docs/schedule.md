@@ -558,8 +558,8 @@ ul
     <td width=240 valign=top style='width:2.5in;border-top:none;border-left:none;
     border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
     padding:0in 5.4pt 0in 5.4pt'>
-    <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><i>Orbital-selective
-    Superconductivity: from Ruddlesden–Popper Nickelates to Twisted WSe<sub>2</sub></i></p>
+    <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><i>Loop-Current-Induced Nematic
+    and Chiral Superconductivity in Kagome Metals</p>
     </td>
     </tr>
     <tr>
