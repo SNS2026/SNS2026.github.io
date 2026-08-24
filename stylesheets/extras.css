@@ -1,0 +1,39 @@
+[data-md-color-scheme="LANL_light"] {
+  --md-primary-fg-color: #030f79;
+  --md-default-bg-color: #ffffff;
+}
+
+[data-md-color-scheme="LANL_dark"] {
+  --md-primary-fg-color: #030f79; 
+  --md-default-bg-color: #9e9e9e;
+}
+
+:root  > * {
+  --md-footer-bg-color: #030f79;
+}
+/*
+#bannerimage {
+  width: 100%;
+  background-image: url(../assets/images/santa-fe.jpg);
+  background-repeat: no-repeat;
+  height: 400px;
+  background-color: purple;
+  background-position: center;
+}
+*/
+
+/*
+.md-grid {
+  max-width: initial;
+}
+*/
+
+/*
+body {
+    background-image: url('https://www.pytexas.org/2026/assets/images/logos/pytexas2026_day_color.svg');
+    background-repeat: no-repeat; or repeat, repeat-x, etc. 
+    background-size: cover;  or contain, 100%, etc. 
+    Optional: Add a background color as a fallback or tint 
+    background-color: #f0f0f0; 
+}
+*/
