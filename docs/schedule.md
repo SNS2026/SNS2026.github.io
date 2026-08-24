@@ -2237,8 +2237,7 @@ ul
     <td width=240 valign=top style='width:2.5in;border-top:none;border-left:none;
     border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
     padding:0in 5.4pt 0in 5.4pt'>
-    <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><i>Twisted Nodal
-    Superconductors</i></p>
+    <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><i>Superconductivity in Stacked and Twisted Transition Metal Dichalcogenides. </i></p>
     </td>
     </tr>
     <tr>
@@ -3861,8 +3860,7 @@ ul
     RS-2023-00220471, RS-2026-25479379)</span></p>
     
 ??? quote "<b><span style='font-size:14.0pt; line-height:115%;color:black'>Jedediah Pixley,</span></b><span style='font-size:14.0pt;line-height:115%;color:black'> Rutgers University</span>"
-    <p class=MsoNormal style='text-align:justify'><i><span style='color:black'>Twisted
-    Nodal Superconductors</span></i></p>
+    <p class=MsoNormal style='text-align:justify'><i><span style='color:black'>Superconductivity in Stacked and Twisted Transition Metal Dichalcogenides.</span></i></p>
     <p class=MsoNormal style='text-align:justify'><span style='color:black'>Abstract:
     TBD</span></p>
 	
